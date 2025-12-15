@@ -104,6 +104,10 @@ def get_input_skin_model_names( dict_input_skins={} ):
     return get_name_of_correct_skins( get_dict_input_skins() )
 
 
+
+DICT_COPY_MODES = {
+    "normal": 0, "random_counted": 1, "random": 2
+}
 def input_to_output_skins( dict_input_skins={}, mode="normal" ):
     '''
     Copiar input skins a output
@@ -120,26 +124,46 @@ def input_to_output_skins( dict_input_skins={}, mode="normal" ):
 
     # Modo de guardado
     skin_model_names = get_skins_of_textfile()
-    if number_of_input_skins >= 0:
-        if mode == "random":
-            pass
-        else:
-            count = 0
-            for model_name in skin_model_names:
-                # Skins files
-                dict_skin = dict_input_skins[ name_of_input_skins[count] ]
-                output_filedff = OUTPUT_DIR.joinpath( f"{model_name}{MODEL_EXTENSION}" )
-                output_filetxd = OUTPUT_DIR.joinpath( f"{model_name}{TEXTURE_EXTENSION}" )
-                print( dict_skin[ "filedff"], "to", output_filedff )
-                print( dict_skin[ "filetxd"], "to", output_filetxd )
+    if number_of_input_skins >= 0 and (mode in DICT_COPY_MODES.keys()):
+        mode_number = DICT_COPY_MODES[mode]
+        count = 0
+        deletable_name_of_input_skins = list(name_of_input_skins)
+        activate_counter = mode_number != DICT_COPY_MODES["random"]
+        for model_name in skin_model_names:
+            # Modo
+            selected_key = name_of_input_skins[count] # 'normal' mode
+            if mode_number == DICT_COPY_MODES["random"]:
+                selected_key = random.choice( name_of_input_skins )
+                activate_counter = False
+            elif mode_number == DICT_COPY_MODES["random_counted"]:
+                # Elegir en lista borrable, de forma aleleatorio, y elimminar de la lista opcion seleccionada.
+                selected_index = random.randint(0, len(deletable_name_of_input_skins)-1 )
+                selected_key = deletable_name_of_input_skins[selected_index]
+                del deletable_name_of_input_skins[selected_index]
 
-                # Copiar
-                shutil.copy( dict_skin[ "filedff"], output_filedff )
-                shutil.copy( dict_skin[ "filetxd"], output_filetxd )
+            ## Skin seleccionada
+            dict_skin = dict_input_skins[ selected_key ]
+
+            # Files
+            output_filedff = OUTPUT_DIR.joinpath( f"{model_name}{MODEL_EXTENSION}" )
+            output_filetxd = OUTPUT_DIR.joinpath( f"{model_name}{TEXTURE_EXTENSION}" )
+
+            # Copiar
+            shutil.copy( dict_skin[ "filedff"], output_filedff )
+            shutil.copy( dict_skin[ "filetxd"], output_filetxd )
+
+            # Contar
+            if activate_counter:
                 if count == number_of_input_skins:
                     count = 0
+                    deletable_name_of_input_skins = list(name_of_input_skins)
                 else:
                     count += 1
+
+            # Debug
+            text_prefix = f"Mode `{mode}` | Counter `{count}`"
+            print( f'{text_prefix} | {dict_skin[ "filedff"]} to {output_filedff}' )
+            print( f'{text_prefix} | {dict_skin[ "filetxd"]} to {output_filetxd}' )
 
 
 
@@ -196,13 +220,18 @@ if args.show_output:
 if args.desired_output:
     print( f"Desired output models: {get_skins_of_textfile()}" )
 
-## Limpiar output, o copair input a output
+## Limpiar output, o copiar input a output
 if args.clean:
     if clean_output():
         print( "Cleaned" )
 if args.run:
     # A copiar archivos
     dict_input_skins = get_dict_input_skins()
-    input_to_output_skins( dict_input_skins, mode=str(args.mode) )
+
+    if not (args.mode in DICT_COPY_MODES.keys()):
+        mode = "normal"
+    else:
+        mode = args.mode
+    input_to_output_skins( dict_input_skins, mode=mode )
 
 
