@@ -1,7 +1,7 @@
 import random
 import shutil
 from utils import ResourceLoader
-from core.text_util import read_text, ignore_comment
+from core.text_util import read_text, ignore_comment, not_repeat_item
 from pathlib import Path
 
 
@@ -11,7 +11,7 @@ resource_loader = ResourceLoader()
 INPUT_DIR = resource_loader.get_base_path("input")
 OUTPUT_DIR = resource_loader.get_base_path("output")
 
-SKIN_MODELS_TEXTFILE = resource_loader.get_base_path( "skin_models.txt" )
+MODEL_OUTPUT_NAMES_TEXTFILE = resource_loader.get_base_path( "model_output_names.txt" )
 
 TEXTURE_EXTENSION = ".txd"
 MODEL_EXTENSION = ".dff"
@@ -20,7 +20,7 @@ MODEL_EXTENSION = ".dff"
 # Funciones
 def get_skins_of_textfile():
     # Leer texto
-    normal_text = read_text( SKIN_MODELS_TEXTFILE, option="ModeText" )
+    normal_text = read_text( MODEL_OUTPUT_NAMES_TEXTFILE, option="ModeText" )
     text_ready = ignore_comment( normal_text, comment="#" )
 
     # Lista de skins
@@ -30,7 +30,7 @@ def get_skins_of_textfile():
             continue
         else:
             skins.append( text )
-    return skins
+    return not_repeat_item( skins ) # No repetir skins.
 
 
 
