@@ -40,6 +40,7 @@ army
 
 # Civil
 ## men street
+bmyst
 sbmyst
 wmyst
 omyst
@@ -72,14 +73,14 @@ bmost
 hmost
 omost
 wmost
-sbmost # <-- special, wird skin.
+sbmost
 somost
 
 ## old money men
 omori
 bmori
 hmori
-sbmori # <-- special, wird skin.
+sbmori
 
 ## money men
 bmyri
@@ -92,6 +93,7 @@ swmyri
 ## men criminal
 wmycr
 sbmycr
+bmycr
 
 ## men drug
 bikdrug
@@ -117,8 +119,8 @@ cwmyfr
 cwmyhb2
 
 ## unique
-bmydj # dj
-wmybmx # bmx
-wmoice # payazo
+bmydj
+wmybmx
+wmoice
 
 ## other
