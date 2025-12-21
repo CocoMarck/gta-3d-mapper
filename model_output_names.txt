@@ -14,6 +14,10 @@ vla3
 dnb1
 dnb2
 dnb3
+sfr1
+sfr2
+sfr3
+
 
 # Mafia
 vmaff1
@@ -24,6 +28,7 @@ triada
 triadb
 triboss
 
+
 # Polis
 lapd1
 sfpd1
@@ -32,10 +37,21 @@ csher
 lapdm1
 sdher
 
+
 # Pro polis
 swat
 fbi
 army
+
+# Medic
+laemt1
+lvemt1
+sfemt1
+
+# Firefighter
+lafd1
+lvfd1
+sffd1
 
 
 # Civil
@@ -50,23 +66,28 @@ swmyst
 smyst
 smyst2
 
+
 ## beach
 bmybe
 wmybe
 hmybe
+
 
 # men constructor
 wmyconb
 bmycon
 wmycon
 
+
 # men biker
 bikera
 bikerb
 
+
 ## empresal men
 wmybu
 bmybu
+
 
 # old men
 bmost
@@ -76,11 +97,13 @@ wmost
 sbmost
 somost
 
+
 ## old money men
 omori
 bmori
 hmori
 sbmori
+
 
 ## money men
 bmyri
@@ -94,12 +117,15 @@ swmyri
 wmycr
 sbmycr
 bmycr
+hmycr
+
 
 ## men drug
 bikdrug
 bmydrug
 wmydrug
 hmydrug
+
 
 ## men vagabundo
 swmotr5
@@ -108,19 +134,43 @@ wmotr1
 sbmotr2
 swmotr4
 
+
 ## men barber shop `prefix="bar"`
 wmybar
 
-## men country
+
+## men Farmer
 cwmofr
 cwmohb1
 cwmohb2
 cwmyfr
 cwmyhb2
 
-## unique
+## men farm town
+dwmolc1
+dwmolc2
+dwmylc1
+dwmylc2
+
+
+# men cab driver
+vwmycd
+sbmocd
+swmocd
+wmycd1
+bmocd
+vbmocd
+
+
+## unique (dj, payaso, bmx, jardinero, mecanico, etc)
 bmydj
 wmybmx
 wmoice
+male01
+wmymech
+hmogar
+bmochil
+
+
 
 ## other

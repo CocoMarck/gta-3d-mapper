@@ -130,6 +130,11 @@ def input_to_output_models( dict_input_models={}, mode="normal" ):
         deletable_name_of_input_models = list(name_of_input_models)
         activate_counter = mode_number != DICT_COPY_MODES["random"]
         for model_name in model_names:
+            # Recomodar contador
+            if count > number_of_input_models:
+                count = 0
+                deletable_name_of_input_models = list(name_of_input_models)
+
             # Modo
             selected_key = name_of_input_models[count] # 'normal' mode
             if mode_number == DICT_COPY_MODES["random"]:
@@ -152,18 +157,14 @@ def input_to_output_models( dict_input_models={}, mode="normal" ):
             shutil.copy( dict_model[ "filedff"], output_filedff )
             shutil.copy( dict_model[ "filetxd"], output_filetxd )
 
-            # Contar
-            if activate_counter:
-                if count == number_of_input_models:
-                    count = 0
-                    deletable_name_of_input_models = list(name_of_input_models)
-                else:
-                    count += 1
-
             # Debug
             text_prefix = f"Mode `{mode}` | Counter `{count}`"
             print( f'{text_prefix} | {dict_model[ "filedff"]} to {output_filedff}' )
             print( f'{text_prefix} | {dict_model[ "filetxd"]} to {output_filetxd}' )
+
+            # Contar
+            if activate_counter:
+                count += 1
 
 
 
