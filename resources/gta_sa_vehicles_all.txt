@@ -1,0 +1,92 @@
+# https://wiki.multitheftauto.com/wiki/Vehicle_IDs
+# http://hotmist.ddo.jp/id/vehicle.html
+# 2-Door & Compact cars
+alpha
+blistac
+bravura
+buccanee
+cadrona
+club
+euros
+feltzer
+fortune
+hermes
+hustler
+majestic
+manana
+picador
+previon
+stallion
+tampa
+virgo
+
+# 4-Door & Luxury cars
+admiral
+elegant
+emperor
+greenwoo
+intruder
+merit
+nebula
+oceanic
+premier
+primo
+santinel
+stafford
+stretch
+sunrise
+tahoma
+vincent
+washing
+willard
+
+# Bikes
+bf400
+bike
+bmx
+faggio
+fcr900
+freeway
+mtbike
+nrg500
+pcj600
+pizzaboy
+sanchez
+wayfarer
+
+
+# Civil service
+baggage
+bus
+cabbie
+coach
+sweeper
+taxi
+towtruck
+trash
+utility
+
+
+# Gobernment vehicles
+ambulan
+barracks
+enforcer
+fbiranch
+fbitrack
+firetruk
+firela
+copbike
+copcarls
+copcarvg
+copcarsf
+copcarru
+rhino
+swatvan
+securica
+patriot
+
+
+# Heavy & Utility trucks
+benson
+boxville
+boxburg

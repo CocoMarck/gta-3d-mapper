@@ -1,0 +1,67 @@
+# 2-Door & Compact cars
+
+## Normal | Los de la calle
+alpha
+blistac
+bravura
+buccanee
+cadrona
+club
+euros
+feltzer
+fortune
+hermes
+hustler
+majestic
+manana
+picador
+previon
+stallion
+tampa
+virgo
+
+## Street racers | Los deportivos
+banshee
+bullet
+cheetah
+comet
+elegy
+flash
+hotknife
+hotring
+hotringa
+hotringb
+infernus
+jester
+stratum
+sultan
+supergt
+turismo
+uranus
+windsor
+zr350
+
+## Muscle cars | Carritos resistentes
+buffalo
+clover
+phoenix
+sabre
+
+## Lowriders | Carritos que bailan
+blade
+broadway
+remingtn
+savanna
+slamvan
+tornado
+voodoo
+
+## Recreational
+bandito
+bfinject
+bloodra
+monster
+monstera
+monsterb
+sandking
+caddy # golfito

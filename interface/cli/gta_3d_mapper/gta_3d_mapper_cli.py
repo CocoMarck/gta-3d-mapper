@@ -32,10 +32,29 @@ class GTA3DMapperCLI():
             '-r', '--run', action="store_true",
             help="copy input skins to output dir"
         )
+        self.parser.add_argument(
+            '-tf', '--textfile', help="Model names output"
+        )
+        self.parser.add_argument(
+            '-id', '--input-dir',
+            help='Input directory'
+        )
+        self.parser.add_argument(
+            '-od', '--output-dir',
+            help='Output directory'
+        )
 
     def run(self):
         # Chamba
         args = self.parser.parse_args()
+
+        if isinstance(args.textfile, str):
+            self.model_service.set_textfile_of_names( args.textfile )
+        if isinstance(args.input_dir, str):
+            self.model_service.set_input_dir( args.input_dir )
+        if isinstance(args.output_dir, str):
+            self.model_service.set_output_dir( args.output_dir )
+
 
         ## Mostrar input o output
         if args.show_input:

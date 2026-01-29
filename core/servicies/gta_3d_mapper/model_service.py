@@ -12,12 +12,37 @@ class ModelService:
     def __init__(
         self, input_dir: pathlib.Path, output_dir: pathlib.Path, textfile_of_names: pathlib.Path
     ):
+        self._DEFAULT_INPUT_DIR = input_dir
+        self._DEFAULT_OUTPUT_DIR = output_dir
+        self._DEFAULT_TEXTFILE_OF_NAMES = textfile_of_names
+
         self.input_dir = input_dir
         self.output_dir = output_dir
 
         self.textfile_of_names = textfile_of_names
 
         self.resource_loader = ResourceLoader()
+
+    def set_input_dir(self, directory: str):
+        path = pathlib.Path(directory)
+        if path.is_dir():
+            self.input_dir = path
+        else:
+            self.input_dir = self._DEFAULT_INPUT_DIR
+
+    def set_output_dir(self, directory: str):
+        path = pathlib.Path(directory)
+        if path.is_dir():
+            self.output_dir = path
+        else:
+            self.output_dir = self._DEFAULT_OUTPUT_DIR
+
+    def set_textfile_of_names(self, textfile):
+        path = pathlib.Path(textfile)
+        if path.is_file():
+            self.textfile_of_names = path
+        else:
+            self.textfile_of_names = self._DEFAULT_TEXTFILE_OF_NAMES
 
     def get_model_names_of_textfile(self):
         # Leer texto
