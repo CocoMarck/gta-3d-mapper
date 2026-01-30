@@ -1,0 +1,10 @@
+## 2
+python3 main.py -id "./custom-input/2-door-vehicles/" -od "./custom-output/2-door-vehicles/" -tf "./resources/gta_sa_2_door_vehicles.txt" --mode "random-counted" --run
+
+python3 main.py -id "./custom-input/2-door-vehicles/" -od "./custom-output/2-door-vehicles/" -tf "./resources/gta_sa_2_door_vehicles.txt" --clean
+
+
+## 4
+python3 main.py -id "./custom-input/4-door-vehicles/" -od "./custom-output/4-door-vehicles/" -tf "./resources/gta_sa_4_door_vehicles.txt" --mode "random-counted" --run
+
+python3 main.py -id "./custom-input/4-door-vehicles/" -od "./custom-output/4-door-vehicles/" -tf "./resources/gta_sa_4_door_vehicles.txt" --clean

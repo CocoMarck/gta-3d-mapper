@@ -8,3 +8,8 @@ __pycache__/
 *.jpg
 *build/
 *dist/
+*.zip
+*.7zip
+*.rar
+custom-input/
+custom-output/

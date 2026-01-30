@@ -1,0 +1,45 @@
+# 4-Door & Luxury cars
+
+## Land vehicels
+admiral
+elegant
+emperor
+greenwoo
+intruder
+merit
+nebula
+oceanic
+premier
+primo
+santinel
+stafford
+stretch
+sunrise
+tahoma
+vincent
+washing
+willard
+
+# Civil service
+cabbie
+taxi
+
+# Street racers
+stratum
+sultan
+
+# Station wagons
+peren
+regina
+solair
+
+# Off road
+huntley
+landstal
+patriot
+
+# Police service
+copcarla
+copcarsf
+copcarvg
+fbiranch

@@ -7,6 +7,7 @@ bravura
 buccanee
 cadrona
 club
+esperant
 euros
 feltzer
 fortune
@@ -29,12 +30,10 @@ elegy
 flash
 hotknife
 hotring
-hotringa
-hotringb
+hotrina
+hotrinb
 infernus
 jester
-stratum
-sultan
 supergt
 turismo
 uranus
@@ -57,11 +56,23 @@ tornado
 voodoo
 
 ## Recreational
-bandito
 bfinject
 bloodra
 monster
 monstera
 monsterb
 sandking
-caddy # golfito
+caddy
+
+## Industrial
+bobcat
+walton
+benson
+sadler
+yosemite
+picador
+sadlshit
+
+## Off road
+rancher
+rnchlure
