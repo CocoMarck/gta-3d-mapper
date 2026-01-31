@@ -1,0 +1,18 @@
+# Pickup trucks 2 doors
+
+## Industrial
+pony
+trash
+mule
+barracks
+packer
+flatbed
+yankee
+benson
+petro
+rdtrain
+
+## Unique vechiels
+mrwhoop
+romero
+journey

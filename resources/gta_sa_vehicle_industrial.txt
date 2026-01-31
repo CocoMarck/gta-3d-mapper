@@ -1,0 +1,15 @@
+```
+# SERVICE / INDUSTRIAL (vehículos especiales)
+
+cement Truck
+dft30
+firetruck
+firetruck Ladder
+towtruck
+utility Van
+sweeper
+combine Harvester
+dozer
+forklift
+tractor
+```

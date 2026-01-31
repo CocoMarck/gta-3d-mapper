@@ -1,0 +1,15 @@
+# Motorcycles
+
+## normal animation
+bf400
+fcr900
+nrg500
+pcj600
+copbike
+sanchez
+wayfarer
+
+## other animation
+freeway
+faggio
+pizzaboy
