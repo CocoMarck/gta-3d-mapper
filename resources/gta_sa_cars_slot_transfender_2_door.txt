@@ -5,48 +5,45 @@ alpha
 banshee
 turismo
 sabre
-zr350
-blistac
 bullet
 euros
-club
-phoenix
 buffalo
 infernus
-cheetah
-club
-supertgt
+supergt
+#cheetah <-- Side Skirts
+#club <-- Side Skirts
+#blistac <-- Side Skirts
+#zr350 <-- Side Skirts
+#phoenix <-- Side Skirts
 
 ## Saloons
-previon
 hermes
-virgo
-majestic
-buccanee
 fortune
-cadrona
-clover
-tampa
-bravura
-manana
 esperant
+#manana <-- Side Skirts
+#bravura <-- Side Skirts
+#tampa <-- Side Skirts
+#buccanee <-- Side Skirts
+#majestic <-- Side Skirts
+#virgo <-- Side Skirts
+#previon <-- Side Skirts
+#clover <-- Side Skirts
+#cadrona <-- Side Skirts
 
 ## Convertibles
-stallion
 comet
 feltzer
 windsor
+#stallion <-- More tuning
 
 ## Idustrial
-bobcat
-walton
-picador
-
-## Station Wagons
+#walton <-- More tunning
+#picador <-- More tunning
+#bobcat <-- More tuning
 
 ## Off road
-rancher
-mesa
+#mesa <-- More tunning
+#rancher <-- More tunning
 
 ## Unique vehicles
 romero

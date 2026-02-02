@@ -44,3 +44,71 @@ Existen cuatro tipos de auto, los tuner, los lowrider, los transfender, y los no
 
 **Con animaciones/funciones especiales**
 - Autos que sacan agua, que tienen escalera, etc. No remplazarlos.
+
+---
+
+## Automoviles Transfender delicados
+Autos transfender con tunning adicional, como tubos de escape, faros, etc.
+
+```
+# Crash Transfender. With more tunning slots.
+
+## 2 Doors
+### Sport vehicles
+cheetah
+club
+blistac
+zr350
+phoenix
+
+### Saloons
+manana
+bravura
+tampa
+buccanee
+majestic
+virgo
+previon
+clover
+cadrona
+
+### Convertibles
+stallion
+
+### Idustrial
+walton
+picador
+bobcat
+
+### Off road
+mesa
+rancher
+
+
+
+
+## 4 door
+### Off road
+landstal
+
+### Station wagons
+moonbeam
+peren
+
+### Saloons
+emperor
+stafford
+merit
+sunrise
+primo
+intruder
+willard
+nebula
+greenwoo
+premier
+washing
+sentinel
+
+### Public service
+taxi
+```
