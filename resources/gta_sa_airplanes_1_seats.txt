@@ -3,7 +3,8 @@
 ## One seat
 cropdust
 rustler
-stuntplane
-shamal
-hydra
+stunt
 nevada
+
+#shamal <-- With scripts
+#hydra <-- With scripts

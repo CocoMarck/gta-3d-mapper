@@ -1,0 +1,12 @@
+# Vehicles without tuning using scripts. Vehicles with additional controls
+
+## 1 seat
+## Public service
+rhino
+
+## Unique vehicles
+vortex
+dozer
+forklift
+combine
+towtruck

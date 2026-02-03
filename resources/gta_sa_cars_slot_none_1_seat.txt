@@ -1,0 +1,25 @@
+# Cars None tuning (transfender), 1 seat
+# Evitar vehiculos que se usan en misiones, o con funciones locas.
+
+## Public service
+#rhino <-- With scripts
+
+## RC Vehicles
+rcbandit
+
+## Off road
+bandito
+
+## Unique vehicles
+baggage
+tractor
+rctiger
+kart
+mower
+sweeper
+tug
+dumper
+#vortex <-- With scripts | Missions
+#dozer <-- With scripts | Mission
+#forklift <-- With scripts | Mission
+#combine <-- With scripts | Mission

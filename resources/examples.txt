@@ -1,5 +1,30 @@
 # Cars
 
+## Estructura de directorios
+```
+custom-input/ or custom-output/
+    cars/
+        1-seat/
+        2-doors/ or 4-doors/
+            transfender/
+            none/
+    bikes/
+        motorcycles/
+        bicycles/
+```
+
+---
+
+## 1 doors
+### None
+```bash
+python3 main.py -id "./custom-input/cars/1-doors/gta.img/" -od "./custom-output/cars/1-seat/" -tf "./resources/gta_sa_cars_slot_none_1_seat.txt" --clean --mode "random_counted" --run
+
+python3 main.py -od "./custom-output/cars/1-seat" -so
+```
+
+---
+
 ## 2 doors
 ### Transfender
 ```bash
@@ -77,4 +102,36 @@ python3 main.py -od './custom-output/bikes/bicycles/' -so
 ['pcj600', 'wayfarer', 'nrg500', 'bf400', 'copbike', 'fcr900', 'freeway', 'faggio', 'pizzaboy', 'sanchez'] 10
 
 ['mtbike', 'bike', 'bmx'] 3
+```
+
+
+
+---
+
+# Airplanes
+
+## 1 seat
+```bash
+python3 main.py -id "./custom-input/airplanes/1-seat/gta.img/" -od "./custom-output/airplanes/1-seat/" -tf "./resources/gta_sa_airplanes_1_seats.txt" --clean --mode "random_counted" --run
+
+python3 main.py -od "./custom-output/airplanes/1-seat" -so
+```
+
+## 2 seat
+```bash
+python3 main.py -id "./custom-input/airplanes/2-seat/gta.img/" -od "./custom-output/airplanes/2-seat/" -tf "./resources/gta_sa_airplanes_2_seats.txt" --clean --mode "random_counted" --run
+
+python3 main.py -od "./custom-output/airplanes/2-seat" -so
+```
+
+
+
+---
+# Helicopters
+
+## 2 seat
+```bash
+python3 main.py -id "./custom-input/helicopters/2-seat/gta.img/" -od "./custom-output/helicopters/2-seat/" -tf "./resources/gta_sa_helicopters_2_seats.txt" --clean --mode "random_counted" --run
+
+python3 main.py -od "./custom-output/helicopters/2-seat" -so
 ```

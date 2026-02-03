@@ -1,0 +1,6 @@
+# Airplanes with scripts
+# Si no estan adaptado dan crash
+
+## 1 seat
+shamal
+hydra
