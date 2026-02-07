@@ -37,11 +37,11 @@ class GTA3DMapperCLI():
         )
         self.parser.add_argument(
             '-id', '--input-dir',
-            help='Input directory'
+            help='input directory'
         )
         self.parser.add_argument(
             '-od', '--output-dir',
-            help='Output directory'
+            help='output directory'
         )
 
     def run(self):
