@@ -176,9 +176,12 @@ class ModelService:
                     count += 1
 
     def clean_folder_dff_txd(self, folder: pathlib.Path):
-        for item in folder.rglob("*"):
-            print(item)
+        '''
+        Remover archivos en una ruta. Solo dff txd. No recursivo, para evitar locuras.
+        '''
+        for item in folder.glob("*"):
             if item.is_file() and item.suffix.lower() in (MODEL_EXTENSION, TEXTURE_EXTENSION):
+                print(item)
                 item.unlink()
 
     def clean_output(self):

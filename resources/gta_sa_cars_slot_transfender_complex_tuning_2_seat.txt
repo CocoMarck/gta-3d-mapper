@@ -1,5 +1,6 @@
 # Cars Transfender. With complex tuning
 # If the cars don't have the correct slots, they crash
+# The truth is, finding a new car that's compatible with exhaust pipes, etc., is difficult; you have to avoid replacing these models if the vehicles aren't fully compatible with the tuning.
 
 ## 2 Doors
 ### Sport vehicles

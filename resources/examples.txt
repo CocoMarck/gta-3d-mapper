@@ -8,6 +8,11 @@ custom-input/ or custom-output/
         2-doors/ or 4-doors/
             transfender/
             none/
+
+            # With tuning slots
+            transfender-complex-tuning/
+            wheel-arch-angels/
+            locolowco/
     bikes/
         motorcycles/
         bicycles/
@@ -47,9 +52,12 @@ python3 main.py -id "./custom-input/cars/2-doors/transfender/gta.img/" -od "./cu
 python3 main.py -od "./custom-output/cars/2-doors/none" -tf "./resources/gta_sa_cars_slot_none_2_door.txt" -so
 ```
 
-### Lowriders <-- Solo usar si los autos son compatibles con locolowco tunning. (normalente no se usara)
+### Lowriders
+**Solo usar si los autos son compatibles con locolowco tunning. (normalente no se usara)**
 ```bash
 python3 main.py -id './custom-input/cars/2-doors/locolowco/gta.img' -od './custom-output/cars/2-doors/locolowco/' -tf "./resources/gta_sa_cars_slot_locolowco_2_door.txt" --clean --mode "random_counted" --run
+
+python3 main.py -id './custom-input/cars/2-doors/locolowco/gta.img' -od './custom-output/cars/2-doors/locolowco/' -so
 ```
 
 
@@ -134,8 +142,35 @@ python3 main.py -od "./custom-output/helicopters/4-seat" -so
 
 ---
 ## Cars wheel arch angels 2 doors
+**Solo usar si los carros estan adaptados. Recomendado no usar, si no estas seguro**
 ```bash
 python3 main.py -id "./custom-input/cars/2-doors/wheel-arch-angels/gta.img/" -od "./custom-output/cars/2-doors/wheel-arch-angels" -tf "./resources/gta_sa_cars_slot_wheel_arch_angels_2_door.txt" --clean --mode "random_counted" --run
 
 python3 main.py -od "./custom-output/cars/2-doors/wheel-arch-angels" -tf "./resources/gta_sa_cars_slot_wheel_arch_angels_2_door.txt" -so
+```
+
+## Cars transfender complex tuning 2 doors
+**Solo usar si los carros estan adaptados. Recomendado no usar, si no estas seguro**
+```bash
+python3 main.py -id "./custom-input/cars/2-doors/transfender-complex-tuning/gta.img/" -od "./custom-output/cars/2-doors/transfender-complex-tuning" -tf "./resources/gta_sa_cars_slot_transfender_complex_tuning_2_seat.txt" --clean --mode "random_counted" --run
+
+python3 main.py -od "./custom-output/cars/2-doors/transfender-complex-tuning" -tf "./resources/gta_sa_cars_slot_transfender_complex_tuning_2_seat.txt" -so
+```
+
+
+---
+# Peds
+
+### Normal men
+```bash
+python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/normal/men/" -tf "./resources/gta_sa_peds_normal_mens.txt" --clean --mode "random_counted" --run
+
+python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/normal/men/" -tf "./resources/gta_sa_peds_normal_mens.txt" -so
+```
+
+### special men
+```bash
+python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/special/men" -tf "./resources/gta_sa_peds_special_mens.txt" --clean --mode "random_counted" --run
+
+python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/special/men/" -tf "./resources/gta_sa_peds_special_mens.txt" -so
 ```

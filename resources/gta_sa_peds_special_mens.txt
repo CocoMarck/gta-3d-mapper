@@ -1,0 +1,57 @@
+# GTA SA peds special mens
+
+## Without order
+andre
+truth
+maccer
+wmyva2
+wmopj
+rose
+paul
+torino
+jizzy
+ogloc
+maddogg
+
+# Heckler
+heck1
+heck2
+
+## Mechanics
+dwayne
+jethro
+
+## Grove street
+bbthin
+bb
+emmet
+ryder
+ryder3
+sweet
+smoke
+smokev
+
+## Mafia
+forelli
+sindaco
+tbone
+
+## Corrupt Cop
+pulaski
+tenpen
+
+## Normal cop
+hern
+
+## Cutscene
+claude
+
+## SAMP 0.3.7
+lapdna
+sfpdna
+lvpdna
+lapdpc
+lapdpd
+lvpdpc
+csherna
+dsherna
