@@ -1,0 +1,32 @@
+## Industrial
+flatbed# Trailer/Pickup
+yankee# Trailer/Pickup
+benson# Pickup
+petro# Trailer/Pickup
+rdtrain# Trailer/Pickup
+dft30# Trailer/Pickup
+linerun# Trailer
+mule# Trailer
+linerun# Trailer
+trash# Pickup
+
+## Off road
+monster# Pickup
+monstera# Pickup
+monsterb# Pickup
+sandking# Pickup
+rnchlure# Pickup
+duneride# Pickup
+
+## Public service
+firetruk# Pickup with scripts unrelated to changes in the car
+firela# Pickup with scripts unrelated to changes in the car
+copcarru# Pickup
+swatvan# Pickup with scripts unrelated to changes in the car
+barracks# Trailer/Pickup
+fbitruck# Pickup
+
+# Unique vehicles
+hotdog#Pickup
+mrwhoop# Pickup
+journey#Pickup

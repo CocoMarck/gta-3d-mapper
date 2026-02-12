@@ -10,40 +10,16 @@ euros
 buffalo
 infernus
 supergt
-#cheetah <-- Side Skirts
-#club <-- Side Skirts
-#blistac <-- Side Skirts
-#zr350 <-- Side Skirts
-#phoenix <-- Side Skirts
 
 ## Saloons
 hermes
 fortune
 esperant
-#manana <-- Side Skirts
-#bravura <-- Side Skirts
-#tampa <-- Side Skirts
-#buccanee <-- Side Skirts
-#majestic <-- Side Skirts
-#virgo <-- Side Skirts
-#previon <-- Side Skirts
-#clover <-- Side Skirts
-#cadrona <-- Side Skirts
 
 ## Convertibles
 comet
 feltzer
 windsor
-#stallion <-- More tuning
-
-## Idustrial
-#walton <-- More tunning
-#picador <-- More tunning
-#bobcat <-- More tuning
-
-## Off road
-#mesa <-- More tunning
-#rancher <-- More tunning
 
 ## Unique vehicles
 romero

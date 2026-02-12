@@ -1,36 +1,18 @@
 # NORMAL (Transfender)
 # 4 door
 
-## Off road
-#landstal <-- More tunning
-
 ## Station wagons
 solair
 regina
-#moonbeam <-- More tunning
-#peren <-- More tunning
 
 ## Saloons
 admiral
 glendale
 oceanic
 elegant
-#emperor <-- More tunning
-#stafford <-- More tunning
-#merit <-- More tunning
-#sunrise <-- More tunning
-#primo <-- More tunning
-#intruder <-- More tunning
-#willard <-- More tunning
-#nebula <-- More tunning
-#greenwoo <-- More tunning
-#premier <-- More tunning
-#washing <-- More tunning
-#sentinel <-- Side Skirts
 
 ## Public service
 cabbie
-#taxi <-- More tunning
 
 ## Off road
 huntley

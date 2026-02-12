@@ -124,6 +124,8 @@ wmycr
 bmycr
 hmycr
 shmycr
+vbmycr
+vhmycr
 
 
 ## men drug
@@ -144,6 +146,8 @@ swmotr2
 
 ## men barber shop `prefix="bar"`
 wmybar
+bmybar
+bmobar
 
 
 ## men Farmer
@@ -226,6 +230,13 @@ sbmycr
 bmycg
 
 
+## Food
+wmypizz
+wmybell
+bmochil
+omonood
+
+
 ## other
 sbmytr3
 swmotr3
@@ -234,11 +245,10 @@ swmotr3
 ## unique (dj, payaso, bmx, jardinero, mecanico, etc)
 bmydj#Dj
 wmybmx#BMX
-wmoice
+wmoice#Payaso Helados
 male01
 wmymech
 hmogar
-bmochil
 wmyva
 bmypimp
 vwmycr#Punk

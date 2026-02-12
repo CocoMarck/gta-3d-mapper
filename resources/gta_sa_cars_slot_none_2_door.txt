@@ -8,45 +8,16 @@ hotrinb
 
 ## Saloons
 bloodra
-bloodrb
+#bloodrb# It doesn't exist, only the texture
 
 ## Industrial
-packer
-flatbed
-yankee
-benson
-petro
-rdtrain
-cement
 sadler
 yosemite
-dft30
 sadlshit
-linerun
-trash
-mule
 
 ## Off road
-monster
-monstera
-monsterb
-sandking
-rnchlure
-duneride
 bfinject
 
-## Public service
-firetruk
-fbitruck
-firela
-copcarru
-swatvan
-barracks
-
 ## Unique vehicles
-mrwhoop
 hotknife
 caddy
-journey
-hotdog
-#towtruck <-- with scripts

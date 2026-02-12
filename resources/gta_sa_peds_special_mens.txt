@@ -1,6 +1,7 @@
 # GTA SA peds special mens
 
 ## Without order
+wuzimu
 andre
 truth
 maccer
@@ -46,13 +47,3 @@ hern
 
 ## Cutscene
 claude
-
-## SAMP 0.3.7
-lapdna
-sfpdna
-lvpdna
-lapdpc
-lapdpd
-lvpdpc
-csherna
-dsherna

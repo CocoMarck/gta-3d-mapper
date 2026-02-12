@@ -1,0 +1,14 @@
+## Industrial
+pony# Pickup
+rumpo# Pickup
+topfun# Pickup
+burrito# Pickup
+boxville# Pickup
+boxburg# Pickup <-- Use in mission
+
+## Public service
+ambulan# Pickup
+enforcer# Pickup
+
+## Unique vehicles
+securica# Pickup

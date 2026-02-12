@@ -6,6 +6,7 @@ custom-input/ or custom-output/
     cars/
         1-seat/
         2-doors/ or 4-doors/
+            pickup-trucks/
             transfender/
             none/
 
@@ -24,9 +25,12 @@ custom-input/ or custom-output/
         2-seat/
         4-seat/
     peds/
-        normal/ special/
-            men/
-            woman/
+        normal/
+            men/ woman/
+        special/
+            men/ woman/
+        samp/
+            men/ woman/
 ```
 
 ---
@@ -177,4 +181,29 @@ python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds
 python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/special/men" -tf "./resources/gta_sa_peds_special_mens.txt" --clean --mode "random_counted" --run
 
 python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/special/men/" -tf "./resources/gta_sa_peds_special_mens.txt" -so
+```
+
+### samp men
+```bash
+python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/samp/men" -tf "./resources/gta_sa_peds_samp_mens.txt" --clean --mode "random_counted" --run
+
+python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds/samp/men/" -tf "./resources/gta_sa_peds_samp_mens.txt" -so
+```
+
+
+
+
+---
+
+# Trucks
+```bash
+python3 main.py -id "./custom-input/cars/2-doors/pickup-trucks/gta.img/" -od "./custom-output/cars/2-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_2_door.txt" --clean --mode "random_counted" --run
+
+python3 main.py -od "./custom-output/cars/2-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_2_door.txt" -so
+```
+
+```
+python3 main.py -id "./custom-input/cars/4-doors/pickup-trucks/gta.img/" -od "./custom-output/cars/4-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_4_door.txt" --clean --mode "random_counted" --run
+
+python3 main.py -od "./custom-output/cars/4-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_4_door.txt" -so
 ```

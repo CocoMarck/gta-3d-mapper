@@ -4,6 +4,10 @@
 ## Public service
 rhino
 
+# Industrial
+packer# Trailer/Pickup | With scripts but not crash
+cement# Trailer/Pickup
+
 ## Unique vehicles
 vortex
 dozer
