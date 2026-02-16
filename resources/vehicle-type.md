@@ -16,6 +16,7 @@ Convertible / Descapotable
 Coupé de 4 puertas
 Jeep / Todoterreno clásico
 Minivan de lujo / MPV
+Tractor
 ```
 
 # Imagnes
