@@ -13,3 +13,18 @@ __pycache__/
 *.7z
 *.rar
 *.JPG
+
+# Binarios compilados
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.obj
+*.o
+*.class
+
+# Archivos de proyecto temporales
+*.log
+*.tmp
+*.cache
