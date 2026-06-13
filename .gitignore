@@ -10,6 +10,6 @@ __pycache__/
 *dist/
 *.zip
 *.7zip
+*.7z
 *.rar
-custom-input/
-custom-output/
+*.JPG
