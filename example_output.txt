@@ -1,0 +1,1936 @@
+VEHICLES 1 SEAT
+custom-output/cars/textures-crazy-1-seat-airplanes/nevada.txd
+custom-output/cars/textures-crazy-1-seat-airplanes/cropdust.txd
+custom-output/cars/textures-crazy-1-seat-airplanes/nevada.dff
+custom-output/cars/textures-crazy-1-seat-airplanes/stunt.txd
+custom-output/cars/textures-crazy-1-seat-airplanes/rustler.txd
+custom-output/cars/textures-crazy-1-seat-airplanes/cropdust.dff
+custom-output/cars/textures-crazy-1-seat-airplanes/rustler.dff
+custom-output/cars/textures-crazy-1-seat-airplanes/stunt.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/airplanes/1-seat/gta.img/pc-6-usaf-markings.dff to custom-output/cars/textures-crazy-1-seat-airplanes/cropdust.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/1-seat/gta.img/pc-6-usaf-markings.txd to custom-output/cars/textures-crazy-1-seat-airplanes/cropdust.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/1-seat/gta.img/boeing-b-17g-flying-fotress-v4.dff to custom-output/cars/textures-crazy-1-seat-airplanes/nevada.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/1-seat/gta.img/boeing-b-17g-flying-fotress-v4.txd to custom-output/cars/textures-crazy-1-seat-airplanes/nevada.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/1-seat/gta.img/rustler-p51-mustang.dff to custom-output/cars/textures-crazy-1-seat-airplanes/rustler.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/1-seat/gta.img/rustler-p51-mustang.txd to custom-output/cars/textures-crazy-1-seat-airplanes/rustler.txd
+Mode `random_counted` | Counter `3` | custom-input/airplanes/1-seat/gta.img/extra-300l-red-bull.dff to custom-output/cars/textures-crazy-1-seat-airplanes/stunt.dff
+Mode `random_counted` | Counter `3` | custom-input/airplanes/1-seat/gta.img/extra-300l-red-bull.txd to custom-output/cars/textures-crazy-1-seat-airplanes/stunt.txd
+output models:
+---
+cropdust
+nevada
+rustler
+stunt
+---
+models: 4
+
+custom-output/cars/textures-crazy-1-seat-bicycles/mtbike.txd
+custom-output/cars/textures-crazy-1-seat-bicycles/mtbike.dff
+custom-output/cars/textures-crazy-1-seat-bicycles/bike.dff
+custom-output/cars/textures-crazy-1-seat-bicycles/bike.txd
+custom-output/cars/textures-crazy-1-seat-bicycles/bmx.txd
+custom-output/cars/textures-crazy-1-seat-bicycles/bmx.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/bikes/bicycles/gta.img/bmx-pdesigner.dff to custom-output/cars/textures-crazy-1-seat-bicycles/bike.dff
+Mode `random_counted` | Counter `0` | custom-input/bikes/bicycles/gta.img/bmx-pdesigner.txd to custom-output/cars/textures-crazy-1-seat-bicycles/bike.txd
+Mode `random_counted` | Counter `1` | custom-input/bikes/bicycles/gta.img/bitwin-safra.dff to custom-output/cars/textures-crazy-1-seat-bicycles/bmx.dff
+Mode `random_counted` | Counter `1` | custom-input/bikes/bicycles/gta.img/bitwin-safra.txd to custom-output/cars/textures-crazy-1-seat-bicycles/bmx.txd
+Mode `random_counted` | Counter `2` | custom-input/bikes/bicycles/gta.img/trial-bike.dff to custom-output/cars/textures-crazy-1-seat-bicycles/mtbike.dff
+Mode `random_counted` | Counter `2` | custom-input/bikes/bicycles/gta.img/trial-bike.txd to custom-output/cars/textures-crazy-1-seat-bicycles/mtbike.txd
+output models:
+---
+bike
+bmx
+mtbike
+---
+models: 3
+
+custom-output/cars/textures-crazy-1-seat-cars-none/mower.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/rcbandit.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/tractor.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/baggage.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/bandito.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/dumper.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/rcbandit.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/rctiger.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/dumper.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/bandito.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/rctiger.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/kart.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/baggage.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/sweeper.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/sweeper.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/kart.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/tug.txd
+custom-output/cars/textures-crazy-1-seat-cars-none/tractor.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/mower.dff
+custom-output/cars/textures-crazy-1-seat-cars-none/tug.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/1-doors/gta.img/cartoon-box-on-wheels.dff to custom-output/cars/textures-crazy-1-seat-cars-none/baggage.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/1-doors/gta.img/cartoon-box-on-wheels.txd to custom-output/cars/textures-crazy-1-seat-cars-none/baggage.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/1-doors/gta.img/go-kart-bmw-m3-gtr.dff to custom-output/cars/textures-crazy-1-seat-cars-none/bandito.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/1-doors/gta.img/go-kart-bmw-m3-gtr.txd to custom-output/cars/textures-crazy-1-seat-cars-none/bandito.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/1-doors/gta.img/spark-srt05-e-2018-formula-e.dff to custom-output/cars/textures-crazy-1-seat-cars-none/dumper.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/1-doors/gta.img/spark-srt05-e-2018-formula-e.txd to custom-output/cars/textures-crazy-1-seat-cars-none/dumper.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/1-doors/gta.img/pugg-buggy-ccd.dff to custom-output/cars/textures-crazy-1-seat-cars-none/kart.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/1-doors/gta.img/pugg-buggy-ccd.txd to custom-output/cars/textures-crazy-1-seat-cars-none/kart.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/1-doors/gta.img/kart-moombean.dff to custom-output/cars/textures-crazy-1-seat-cars-none/mower.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/1-doors/gta.img/kart-moombean.txd to custom-output/cars/textures-crazy-1-seat-cars-none/mower.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/1-doors/gta.img/kart-honda-civic.dff to custom-output/cars/textures-crazy-1-seat-cars-none/rcbandit.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/1-doors/gta.img/kart-honda-civic.txd to custom-output/cars/textures-crazy-1-seat-cars-none/rcbandit.txd
+Mode `random_counted` | Counter `6` | custom-input/cars/1-doors/gta.img/belarus-1025.dff to custom-output/cars/textures-crazy-1-seat-cars-none/rctiger.dff
+Mode `random_counted` | Counter `6` | custom-input/cars/1-doors/gta.img/belarus-1025.txd to custom-output/cars/textures-crazy-1-seat-cars-none/rctiger.txd
+Mode `random_counted` | Counter `7` | custom-input/cars/1-doors/gta.img/wheel-horse-lawn-ranger-800-1972.dff to custom-output/cars/textures-crazy-1-seat-cars-none/sweeper.dff
+Mode `random_counted` | Counter `7` | custom-input/cars/1-doors/gta.img/wheel-horse-lawn-ranger-800-1972.txd to custom-output/cars/textures-crazy-1-seat-cars-none/sweeper.txd
+Mode `random_counted` | Counter `0` | custom-input/cars/1-doors/gta.img/kart-moombean.dff to custom-output/cars/textures-crazy-1-seat-cars-none/tractor.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/1-doors/gta.img/kart-moombean.txd to custom-output/cars/textures-crazy-1-seat-cars-none/tractor.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/1-doors/gta.img/spark-srt05-e-2018-formula-e.dff to custom-output/cars/textures-crazy-1-seat-cars-none/tug.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/1-doors/gta.img/spark-srt05-e-2018-formula-e.txd to custom-output/cars/textures-crazy-1-seat-cars-none/tug.txd
+output models:
+---
+baggage
+bandito
+dumper
+kart
+mower
+rcbandit
+rctiger
+sweeper
+tractor
+tug
+---
+models: 10
+VEHICLES 2 SEAT
+
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firetruk.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/dft30.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/barracks.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monster.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rdtrain.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/petro.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firetruk.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/flatbed.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/benson.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/journey.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/hotdog.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/linerun.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/flatbed.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/hotdog.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firela.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/fbitruck.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/copcarru.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rdtrain.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/swatvan.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/yankee.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mule.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/barracks.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/dft30.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/sandking.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/fbitruck.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/linerun.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firela.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/benson.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mrwhoop.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monsterb.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/petro.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/journey.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/duneride.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mule.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/yankee.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rnchlure.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monstera.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/trash.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/swatvan.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/trash.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monsterb.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monster.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rnchlure.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/sandking.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/duneride.txd
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monstera.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/copcarru.dff
+custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mrwhoop.txd
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/volvo-fh-500-abc-logistics.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/barracks.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/volvo-fh-500-abc-logistics.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/barracks.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/cingan-kasa-ford-transit.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/benson.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/cingan-kasa-ford-transit.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/benson.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5432-tractor.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/copcarru.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5432-tractor.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/copcarru.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/mercedes-benz-sprinter-v10.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/dft30.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/mercedes-benz-sprinter-v10.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/dft30.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/gazelle/gazelle-farmer.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/duneride.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/gazelle/gazelle-farmer.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/duneride.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/subaru-sambar-truck-1992.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/fbitruck.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/subaru-sambar-truck-1992.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/fbitruck.txd
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/mercedes-benz-vario-815d.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firela.dff
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/mercedes-benz-vario-815d.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firela.txd
+Mode `random_counted` | Counter `7` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/kia-bongo-inco.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firetruk.dff
+Mode `random_counted` | Counter `7` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/kia-bongo-inco.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/firetruk.txd
+Mode `random_counted` | Counter `8` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/gazelle/gazelle-3302-tented.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/flatbed.dff
+Mode `random_counted` | Counter `8` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/gazelle/gazelle-3302-tented.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/flatbed.txd
+Mode `random_counted` | Counter `9` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/ford/ford-transit-330s-single-cabin.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/hotdog.dff
+Mode `random_counted` | Counter `9` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/ford/ford-transit-330s-single-cabin.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/hotdog.txd
+Mode `random_counted` | Counter `10` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/kaz-608-tractor.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/journey.dff
+Mode `random_counted` | Counter `10` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/kaz-608-tractor.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/journey.txd
+Mode `random_counted` | Counter `11` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/mitsubishi-fuso-center-fi.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/linerun.dff
+Mode `random_counted` | Counter `11` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/mitsubishi-fuso-center-fi.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/linerun.txd
+Mode `random_counted` | Counter `12` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/ford/ford-transit-mk3-truck.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monster.dff
+Mode `random_counted` | Counter `12` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/ford/ford-transit-mk3-truck.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monster.txd
+Mode `random_counted` | Counter `13` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/gazelle-3302-s-w-e-e-t.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monstera.dff
+Mode `random_counted` | Counter `13` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/gazelle-3302-s-w-e-e-t.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monstera.txd
+Mode `random_counted` | Counter `14` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/honda-acty-truck.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monsterb.dff
+Mode `random_counted` | Counter `14` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/honda-acty-truck.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/monsterb.txd
+Mode `random_counted` | Counter `15` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5428.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mrwhoop.dff
+Mode `random_counted` | Counter `15` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5428.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mrwhoop.txd
+Mode `random_counted` | Counter `16` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/zil-130-tractor.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mule.dff
+Mode `random_counted` | Counter `16` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/zil-130-tractor.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/mule.txd
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5428.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/petro.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5428.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/petro.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/ford/ford-transit-mk3-truck.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rdtrain.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/ford/ford-transit-mk3-truck.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rdtrain.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5432-tractor.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rnchlure.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/maz/maz-5432-tractor.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/rnchlure.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/gazelle-3302-s-w-e-e-t.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/sandking.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/pickup-trucks/gta.img/van/gazelle-3302-s-w-e-e-t.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/sandking.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/subaru-sambar-truck-1992.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/swatvan.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/subaru-sambar-truck-1992.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/swatvan.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/kaz-608-tractor.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/trash.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/pickup-trucks/gta.img/tractor/kaz-608-tractor.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/trash.txd
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/gazelle/gazelle-3302-tented.dff to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/yankee.dff
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/pickup-trucks/gta.img/pickup/gazelle/gazelle-3302-tented.txd to custom-output/cars/textures-crazy-2-seat-cars-pickup-trucks/yankee.txd
+output models:
+---
+barracks
+benson
+copcarru
+dft30
+duneride
+fbitruck
+firela
+firetruk
+flatbed
+hotdog
+journey
+linerun
+monster
+monstera
+monsterb
+mrwhoop
+mule
+petro
+rdtrain
+rnchlure
+sandking
+swatvan
+trash
+yankee
+---
+models: 24
+
+cleaned
+output models:
+---
+
+---
+models: 0
+
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/elegy.txd
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/uranus.dff
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/jester.txd
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/flash.dff
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/uranus.txd
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/jester.dff
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/flash.txd
+custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/elegy.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/gta-v-weeny-issi-classic.dff to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/elegy.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/gta-v-weeny-issi-classic.txd to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/elegy.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/volkswagen-saveiro-g3-tunable.dff to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/flash.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/volkswagen-saveiro-g3-tunable.txd to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/flash.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/nissan-skyline-gt-r-spec-vii-2002-tunable.dff to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/jester.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/nissan-skyline-gt-r-spec-vii-2002-tunable.txd to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/jester.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/louts-elise-111.dff to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/uranus.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/wheel-arch-angels/gta.img/louts-elise-111.txd to custom-output/cars/textures-crazy-2-seat-cars-wheel-arch-angels/uranus.txd
+output models:
+---
+elegy
+flash
+jester
+uranus
+---
+models: 4
+
+custom-output/cars/textures-crazy-2-seat-helicopters/leviathn.dff
+custom-output/cars/textures-crazy-2-seat-helicopters/raindanc.dff
+custom-output/cars/textures-crazy-2-seat-helicopters/vcnmav.dff
+custom-output/cars/textures-crazy-2-seat-helicopters/cargobob.txd
+custom-output/cars/textures-crazy-2-seat-helicopters/vcnmav.txd
+custom-output/cars/textures-crazy-2-seat-helicopters/leviathn.txd
+custom-output/cars/textures-crazy-2-seat-helicopters/sparrow.txd
+custom-output/cars/textures-crazy-2-seat-helicopters/seaspar.dff
+custom-output/cars/textures-crazy-2-seat-helicopters/seaspar.txd
+custom-output/cars/textures-crazy-2-seat-helicopters/raindanc.txd
+custom-output/cars/textures-crazy-2-seat-helicopters/cargobob.dff
+custom-output/cars/textures-crazy-2-seat-helicopters/sparrow.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/helicopters/2-seat/gta.img/cargobob-rtx3090.dff to custom-output/cars/textures-crazy-2-seat-helicopters/cargobob.dff
+Mode `random_counted` | Counter `0` | custom-input/helicopters/2-seat/gta.img/cargobob-rtx3090.txd to custom-output/cars/textures-crazy-2-seat-helicopters/cargobob.txd
+Mode `random_counted` | Counter `1` | custom-input/helicopters/2-seat/gta.img/spec-ops-the-line-ah6.dff to custom-output/cars/textures-crazy-2-seat-helicopters/leviathn.dff
+Mode `random_counted` | Counter `1` | custom-input/helicopters/2-seat/gta.img/spec-ops-the-line-ah6.txd to custom-output/cars/textures-crazy-2-seat-helicopters/leviathn.txd
+Mode `random_counted` | Counter `2` | custom-input/helicopters/2-seat/gta.img/maibatsu-frogger-v110.dff to custom-output/cars/textures-crazy-2-seat-helicopters/raindanc.dff
+Mode `random_counted` | Counter `2` | custom-input/helicopters/2-seat/gta.img/maibatsu-frogger-v110.txd to custom-output/cars/textures-crazy-2-seat-helicopters/raindanc.txd
+Mode `random_counted` | Counter `3` | custom-input/helicopters/2-seat/gta.img/sikorsky-air-crane-s-64e.dff to custom-output/cars/textures-crazy-2-seat-helicopters/seaspar.dff
+Mode `random_counted` | Counter `3` | custom-input/helicopters/2-seat/gta.img/sikorsky-air-crane-s-64e.txd to custom-output/cars/textures-crazy-2-seat-helicopters/seaspar.txd
+Mode `random_counted` | Counter `4` | custom-input/helicopters/2-seat/gta.img/kombicoptero.dff to custom-output/cars/textures-crazy-2-seat-helicopters/sparrow.dff
+Mode `random_counted` | Counter `4` | custom-input/helicopters/2-seat/gta.img/kombicoptero.txd to custom-output/cars/textures-crazy-2-seat-helicopters/sparrow.txd
+Mode `random_counted` | Counter `0` | custom-input/helicopters/2-seat/gta.img/cargobob-rtx3090.dff to custom-output/cars/textures-crazy-2-seat-helicopters/vcnmav.dff
+Mode `random_counted` | Counter `0` | custom-input/helicopters/2-seat/gta.img/cargobob-rtx3090.txd to custom-output/cars/textures-crazy-2-seat-helicopters/vcnmav.txd
+output models:
+---
+cargobob
+leviathn
+raindanc
+seaspar
+sparrow
+vcnmav
+---
+models: 6
+
+custom-output/cars/textures-crazy-2-seat-airplanes/vwmycd.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/smyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmyri.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/somyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmost.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmyfr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/smyst2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmymech.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyri.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmycr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sfr1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmori.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmycr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/triada.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vla3.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/triada.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/triboss.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybmx.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/omyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lsv2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmoice.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff4.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/triadb.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/male01.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/fam1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/omori.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/fam3.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sfpd1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmogar.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmycon.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vla2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vwmycd.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/ballas3.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/fam3.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyconb.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyro.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyva.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lsv3.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/shmycr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmotr1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmochil.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dnb2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmochil.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmotr5.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff3.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/hmori.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/fam2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sfr3.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmybe.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lvfd1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyri.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/ballas2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybmx.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/smyst2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybu.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bikdrug.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lafd1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/omori.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/csher.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dnb1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmost.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmyfr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/csher.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sdher.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmydrug.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmycon.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyri.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmyri.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/somost.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyva.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/omyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sfemt1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/ballas3.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/laemt1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmotr5.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lsv3.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vhmyelv.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vla3.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/omyri.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lsv2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/ballas1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vbmyelv.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybe.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/ballas2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vhmyelv.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/hmyri.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmycr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lsv1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swat.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lapdm1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmost.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lvemt1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lapd1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/somyri.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyri.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sdher.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/omyri.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/male01.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lvemt1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmymoun.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vbmybox.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sfpd1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyro.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmocd.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/triboss.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bikerb.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmybe.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vla2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmocd.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/omost.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmymoun.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmymoun.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmydj.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vimyelv.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmost.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmoice.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/fbi.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmydrug.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff3.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/swat.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmycr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmymoun.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmycr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sfr2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmori.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vwmybox.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/hmori.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vbmybox.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmotr1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sfemt1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vbmocd.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmybu.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff4.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lafd1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/fam1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmofr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dnb3.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmofr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bikdrug.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lapd1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyconb.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/somyri.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmymech.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dnb3.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmyri.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lsv1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vla1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/somost.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/triadb.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmycd1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vmaff2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/swmotr4.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bikera.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmych.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmybu.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmycon.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/army.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmotr2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vbmocd.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmotr4.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmycon.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmotr1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmocd.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/shmycr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmydrug.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmost.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/laemt1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lvpd1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmori.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sfr2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vwmybox.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/lvfd1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmydrug.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmocd.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybu.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybe.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dnb1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybar.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sffd1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmybar.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmycr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lapdm1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmybe.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmyri.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/omost.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmori.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyjg.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/lvpd1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/hmyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmocd.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmost.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmybe.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmycr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/smyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/ballas1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb1.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmycd1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmotr1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/wmost.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bikera.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/hmydrug.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/fbi.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmycr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmydrug.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmyjg.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/vla1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmogar.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/fam2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/army.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmocd.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmotr2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/somyst.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/hmyst.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/sbmycr.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sfr3.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wmych.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/dnb2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb2.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/bmyri.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmost.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg2.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sfr1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bikerb.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/sffd1.txd
+custom-output/cars/textures-crazy-2-seat-airplanes/bmydj.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vbmyelv.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/swmycr.dff
+custom-output/cars/textures-crazy-2-seat-airplanes/vimyelv.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/army.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/army.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/ballas1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/ballas1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/ballas2.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/ballas2.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/ballas3.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/ballas3.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bikdrug.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bikdrug.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bikera.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bikera.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bikerb.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bikerb.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmocd.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmocd.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmochil.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmochil.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmori.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmori.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmost.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmost.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmotr1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmotr1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmybe.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmybe.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmybu.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmybu.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmycon.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmycon.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmycr.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmycr.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmydj.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmydj.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmydrug.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmydrug.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmymoun.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmymoun.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmyri.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmyri.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/bmyst.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/bmyst.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/csher.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/csher.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/cwmofr.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/cwmofr.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb2.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/cwmohb2.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/cwmyfr.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/cwmyfr.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb2.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/cwmyhb2.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/dnb1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/dnb1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/dnb2.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/dnb2.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/dnb3.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/dnb3.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc2.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/dwmolc2.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc2.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/dwmylc2.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/fam1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/fam1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/fam2.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/fam2.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/fam3.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/fam3.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/fbi.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/fbi.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmogar.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmogar.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmori.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmori.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmost.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmost.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmybe.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmybe.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmycr.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmycr.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmydrug.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmydrug.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmyri.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmyri.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/hmyst.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/hmyst.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/laemt1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/laemt1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lafd1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lafd1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lapd1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lapd1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lapdm1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lapdm1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lsv1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lsv1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lsv2.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lsv2.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lsv3.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lsv3.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lvemt1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lvemt1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lvfd1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lvfd1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/lvpd1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/lvpd1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/male01.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/male01.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/omori.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/omori.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/omost.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/omost.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/omyri.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/omyri.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/omyst.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/omyst.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sbmocd.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sbmocd.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sbmori.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sbmori.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sbmost.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sbmost.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sbmotr2.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sbmotr2.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sbmycr.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sbmycr.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sbmyri.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sbmyri.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sbmyst.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sbmyst.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sdher.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sdher.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sfemt1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sfemt1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sffd1.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sffd1.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sfpd1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sfpd1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sfr1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sfr1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sfr2.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sfr2.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/sfr3.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/sfr3.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/shmycr.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/shmycr.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/smyst.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/smyst.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/smyst2.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/smyst2.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/somost.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/somost.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/somyri.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/somyri.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/somyst.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/somyst.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swat.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swat.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmocd.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmocd.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmotr4.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmotr4.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmotr5.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmotr5.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmycr.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmycr.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp2.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmyhp2.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmyri.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmyri.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/swmyst.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/swmyst.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/triada.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/triada.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/triadb.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/triadb.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/triboss.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/triboss.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vbmocd.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vbmocd.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vbmybox.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vbmybox.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vbmyelv.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vbmyelv.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vhmyelv.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vhmyelv.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vimyelv.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vimyelv.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vla1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vla1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vla2.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vla2.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vla3.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vla3.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff2.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff2.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff3.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff3.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff4.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vmaff4.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vwmybox.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vwmybox.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/vwmycd.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/vwmycd.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg2.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wbdyg2.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmoice.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmoice.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmost.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmost.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmotr1.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmotr1.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmybar.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmybar.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmybe.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmybe.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmybmx.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmybmx.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmybu.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmybu.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmycd1.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmycd1.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmych.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmych.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmycon.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmycon.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmyconb.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmyconb.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmycr.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmycr.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmydrug.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmydrug.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmyjg.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmyjg.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmymech.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmymech.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmymoun.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmymoun.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmyri.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/gta5-velum.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmyri.txd
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmyro.dff
+Mode `random_counted` | Counter `1` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmyro.txd
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmyst.dff
+Mode `random_counted` | Counter `2` | custom-input/airplanes/2-seat/gta.img/goose-paintkit.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmyst.txd
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.dff to custom-output/cars/textures-crazy-2-seat-airplanes/wmyva.dff
+Mode `random_counted` | Counter `0` | custom-input/airplanes/2-seat/gta.img/skyhawk-updated.txd to custom-output/cars/textures-crazy-2-seat-airplanes/wmyva.txd
+output models:
+---
+army
+ballas1
+ballas2
+ballas3
+bikdrug
+bikera
+bikerb
+bmocd
+bmochil
+bmori
+bmost
+bmotr1
+bmybe
+bmybu
+bmycon
+bmycr
+bmydj
+bmydrug
+bmymoun
+bmyri
+bmyst
+csher
+cwmofr
+cwmohb1
+cwmohb2
+cwmyfr
+cwmyhb1
+cwmyhb2
+dnb1
+dnb2
+dnb3
+dwmolc1
+dwmolc2
+dwmylc1
+dwmylc2
+fam1
+fam2
+fam3
+fbi
+hmogar
+hmori
+hmost
+hmybe
+hmycr
+hmydrug
+hmyri
+hmyst
+laemt1
+lafd1
+lapd1
+lapdm1
+lsv1
+lsv2
+lsv3
+lvemt1
+lvfd1
+lvpd1
+male01
+omori
+omost
+omyri
+omyst
+sbmocd
+sbmori
+sbmost
+sbmotr2
+sbmycr
+sbmyri
+sbmyst
+sdher
+sfemt1
+sffd1
+sfpd1
+sfr1
+sfr2
+sfr3
+shmycr
+smyst
+smyst2
+somost
+somyri
+somyst
+swat
+swmocd
+swmotr4
+swmotr5
+swmycr
+swmyhp1
+swmyhp2
+swmyri
+swmyst
+triada
+triadb
+triboss
+vbmocd
+vbmybox
+vbmyelv
+vhmyelv
+vimyelv
+vla1
+vla2
+vla3
+vmaff1
+vmaff2
+vmaff3
+vmaff4
+vwmybox
+vwmycd
+wbdyg1
+wbdyg2
+wmoice
+wmost
+wmotr1
+wmybar
+wmybe
+wmybmx
+wmybu
+wmycd1
+wmych
+wmycon
+wmyconb
+wmycr
+wmydrug
+wmyjg
+wmymech
+wmymoun
+wmyri
+wmyro
+wmyst
+wmyva
+---
+models: 130
+
+custom-output/cars/textures-crazy-2-seat-motorcycles/pcj600.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/wayfarer.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/nrg500.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/bf400.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/wayfarer.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/copbike.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/fcr900.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/nrg500.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/pcj600.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/freeway.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/freeway.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/copbike.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/fcr900.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/faggio.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/pizzaboy.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/pizzaboy.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/sanchez.txd
+custom-output/cars/textures-crazy-2-seat-motorcycles/faggio.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/bf400.dff
+custom-output/cars/textures-crazy-2-seat-motorcycles/sanchez.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/bikes/motorcycles/gta.img/ducati-gp-21.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/bf400.dff
+Mode `random_counted` | Counter `0` | custom-input/bikes/motorcycles/gta.img/ducati-gp-21.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/bf400.txd
+Mode `random_counted` | Counter `1` | custom-input/bikes/motorcycles/gta.img/thankz.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/copbike.dff
+Mode `random_counted` | Counter `1` | custom-input/bikes/motorcycles/gta.img/thankz.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/copbike.txd
+Mode `random_counted` | Counter `2` | custom-input/bikes/motorcycles/gta.img/honda-ex5.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/faggio.dff
+Mode `random_counted` | Counter `2` | custom-input/bikes/motorcycles/gta.img/honda-ex5.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/faggio.txd
+Mode `random_counted` | Counter `3` | custom-input/bikes/motorcycles/gta.img/moto-fallout.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/fcr900.dff
+Mode `random_counted` | Counter `3` | custom-input/bikes/motorcycles/gta.img/moto-fallout.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/fcr900.txd
+Mode `random_counted` | Counter `4` | custom-input/bikes/motorcycles/gta.img/ax100.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/freeway.dff
+Mode `random_counted` | Counter `4` | custom-input/bikes/motorcycles/gta.img/ax100.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/freeway.txd
+Mode `random_counted` | Counter `5` | custom-input/bikes/motorcycles/gta.img/mondial-125-drift-l-cbs.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/nrg500.dff
+Mode `random_counted` | Counter `5` | custom-input/bikes/motorcycles/gta.img/mondial-125-drift-l-cbs.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/nrg500.txd
+Mode `random_counted` | Counter `0` | custom-input/bikes/motorcycles/gta.img/honda-ex5.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/pcj600.dff
+Mode `random_counted` | Counter `0` | custom-input/bikes/motorcycles/gta.img/honda-ex5.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/pcj600.txd
+Mode `random_counted` | Counter `1` | custom-input/bikes/motorcycles/gta.img/moto-fallout.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/pizzaboy.dff
+Mode `random_counted` | Counter `1` | custom-input/bikes/motorcycles/gta.img/moto-fallout.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/pizzaboy.txd
+Mode `random_counted` | Counter `2` | custom-input/bikes/motorcycles/gta.img/ducati-gp-21.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/sanchez.dff
+Mode `random_counted` | Counter `2` | custom-input/bikes/motorcycles/gta.img/ducati-gp-21.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/sanchez.txd
+Mode `random_counted` | Counter `3` | custom-input/bikes/motorcycles/gta.img/thankz.dff to custom-output/cars/textures-crazy-2-seat-motorcycles/wayfarer.dff
+Mode `random_counted` | Counter `3` | custom-input/bikes/motorcycles/gta.img/thankz.txd to custom-output/cars/textures-crazy-2-seat-motorcycles/wayfarer.txd
+output models:
+---
+bf400
+copbike
+faggio
+fcr900
+freeway
+nrg500
+pcj600
+pizzaboy
+sanchez
+wayfarer
+---
+models: 10
+
+cleaned
+output models:
+---
+
+---
+models: 0
+
+custom-output/cars/textures-crazy-2-seat-cars-none/sadler.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/bfinject.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/bloodra.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/caddy.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/hotknife.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/sadlshit.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/hotrinb.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/yosemite.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/sadler.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/bfinject.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/hotknife.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/bloodra.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/hotrina.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/sadlshit.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/hotring.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/yosemite.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/caddy.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/hotrina.txd
+custom-output/cars/textures-crazy-2-seat-cars-none/hotring.dff
+custom-output/cars/textures-crazy-2-seat-cars-none/hotrinb.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/transfender/gta.img/jeep/mesa.dff to custom-output/cars/textures-crazy-2-seat-cars-none/bfinject.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/transfender/gta.img/jeep/mesa.txd to custom-output/cars/textures-crazy-2-seat-cars-none/bfinject.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/transfender/gta.img/sport/porsche/porsche-911-19th.dff to custom-output/cars/textures-crazy-2-seat-cars-none/bloodra.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/transfender/gta.img/sport/porsche/porsche-911-19th.txd to custom-output/cars/textures-crazy-2-seat-cars-none/bloodra.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/transfender/gta.img/sport/chevrolet/chevrolet-corvette-c8-liberty-walk-silhoutte-works-2020-by-nb7-project.dff to custom-output/cars/textures-crazy-2-seat-cars-none/caddy.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/transfender/gta.img/sport/chevrolet/chevrolet-corvette-c8-liberty-walk-silhoutte-works-2020-by-nb7-project.txd to custom-output/cars/textures-crazy-2-seat-cars-none/caddy.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/transfender/gta.img/sport/chevrolet/chevrolet-corvette-c3-roadster-conecpt-a-widebody.dff to custom-output/cars/textures-crazy-2-seat-cars-none/hotknife.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/transfender/gta.img/sport/chevrolet/chevrolet-corvette-c3-roadster-conecpt-a-widebody.txd to custom-output/cars/textures-crazy-2-seat-cars-none/hotknife.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/transfender/gta.img/hatchback/bmw/r56cooper.dff to custom-output/cars/textures-crazy-2-seat-cars-none/hotrina.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/transfender/gta.img/hatchback/bmw/r56cooper.txd to custom-output/cars/textures-crazy-2-seat-cars-none/hotrina.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/transfender/gta.img/sport/grotti-cheetah.dff to custom-output/cars/textures-crazy-2-seat-cars-none/hotrinb.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/transfender/gta.img/sport/grotti-cheetah.txd to custom-output/cars/textures-crazy-2-seat-cars-none/hotrinb.txd
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/transfender/gta.img/coupe/mercedes-benz-amg-gt-nessalia.dff to custom-output/cars/textures-crazy-2-seat-cars-none/hotring.dff
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/transfender/gta.img/coupe/mercedes-benz-amg-gt-nessalia.txd to custom-output/cars/textures-crazy-2-seat-cars-none/hotring.txd
+Mode `random_counted` | Counter `7` | custom-input/cars/2-doors/transfender/gta.img/funny/delorian-bttft3.dff to custom-output/cars/textures-crazy-2-seat-cars-none/sadler.dff
+Mode `random_counted` | Counter `7` | custom-input/cars/2-doors/transfender/gta.img/funny/delorian-bttft3.txd to custom-output/cars/textures-crazy-2-seat-cars-none/sadler.txd
+Mode `random_counted` | Counter `8` | custom-input/cars/2-doors/transfender/gta.img/coupe/audi-ttrs.dff to custom-output/cars/textures-crazy-2-seat-cars-none/sadlshit.dff
+Mode `random_counted` | Counter `8` | custom-input/cars/2-doors/transfender/gta.img/coupe/audi-ttrs.txd to custom-output/cars/textures-crazy-2-seat-cars-none/sadlshit.txd
+Mode `random_counted` | Counter `9` | custom-input/cars/2-doors/transfender/gta.img/hatchback/bmw/mini-cooper-works-gp-red.dff to custom-output/cars/textures-crazy-2-seat-cars-none/yosemite.dff
+Mode `random_counted` | Counter `9` | custom-input/cars/2-doors/transfender/gta.img/hatchback/bmw/mini-cooper-works-gp-red.txd to custom-output/cars/textures-crazy-2-seat-cars-none/yosemite.txd
+output models:
+---
+bfinject
+bloodra
+caddy
+hotknife
+hotrina
+hotrinb
+hotring
+sadler
+sadlshit
+yosemite
+---
+models: 10
+
+custom-output/cars/textures-crazy-2-seat-cars-transfender/banshee.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/fortune.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/hermes.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/sabre.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/infernus.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/windsor.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/infernus.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/comet.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/euros.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/buffalo.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/supergt.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/turismo.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/hustler.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/euros.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/feltzer.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/alpha.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/romero.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/supergt.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/windsor.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/bullet.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/feltzer.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/hermes.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/alpha.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/esperant.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/hustler.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/romero.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/sabre.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/buffalo.txd
+custom-output/cars/textures-crazy-2-seat-cars-transfender/turismo.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/fortune.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/banshee.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/comet.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/esperant.dff
+custom-output/cars/textures-crazy-2-seat-cars-transfender/bullet.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/transfender/gta.img/hatchback/peugeot/peugeot-206-ansama.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/alpha.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/2-doors/transfender/gta.img/hatchback/peugeot/peugeot-206-ansama.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/alpha.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/transfender/gta.img/funny/austin-mr-bean.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/banshee.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/2-doors/transfender/gta.img/funny/austin-mr-bean.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/banshee.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/transfender/gta.img/pickup/vaz-2101-pickup.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/buffalo.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/2-doors/transfender/gta.img/pickup/vaz-2101-pickup.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/buffalo.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/transfender/gta.img/funny/helo4-future-car-gadi-by-dilpreet.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/bullet.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/2-doors/transfender/gta.img/funny/helo4-future-car-gadi-by-dilpreet.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/bullet.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/transfender/gta.img/convertible/1990-cadillac-allant-cabriolet.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/comet.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/2-doors/transfender/gta.img/convertible/1990-cadillac-allant-cabriolet.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/comet.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/transfender/gta.img/hatchback/peugeot/peugeot-206-rolly.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/esperant.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/2-doors/transfender/gta.img/hatchback/peugeot/peugeot-206-rolly.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/esperant.txd
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/transfender/gta.img/jeep/mesa.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/euros.dff
+Mode `random_counted` | Counter `6` | custom-input/cars/2-doors/transfender/gta.img/jeep/mesa.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/euros.txd
+Mode `random_counted` | Counter `7` | custom-input/cars/2-doors/transfender/gta.img/sport/bentley-continental-supersports.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/feltzer.dff
+Mode `random_counted` | Counter `7` | custom-input/cars/2-doors/transfender/gta.img/sport/bentley-continental-supersports.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/feltzer.txd
+Mode `random_counted` | Counter `8` | custom-input/cars/2-doors/transfender/gta.img/coupe/ford-model-a-hot-rod.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/fortune.dff
+Mode `random_counted` | Counter `8` | custom-input/cars/2-doors/transfender/gta.img/coupe/ford-model-a-hot-rod.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/fortune.txd
+Mode `random_counted` | Counter `9` | custom-input/cars/2-doors/transfender/gta.img/hatchback/alfa-romeo-giolietta-tcr.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/hermes.dff
+Mode `random_counted` | Counter `9` | custom-input/cars/2-doors/transfender/gta.img/hatchback/alfa-romeo-giolietta-tcr.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/hermes.txd
+Mode `random_counted` | Counter `10` | custom-input/cars/2-doors/transfender/gta.img/hatchback/citroen-c2.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/hustler.dff
+Mode `random_counted` | Counter `10` | custom-input/cars/2-doors/transfender/gta.img/hatchback/citroen-c2.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/hustler.txd
+Mode `random_counted` | Counter `11` | custom-input/cars/2-doors/transfender/gta.img/sport/porsche/porsche-911-kaycole.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/infernus.dff
+Mode `random_counted` | Counter `11` | custom-input/cars/2-doors/transfender/gta.img/sport/porsche/porsche-911-kaycole.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/infernus.txd
+Mode `random_counted` | Counter `12` | custom-input/cars/2-doors/transfender/gta.img/pickup/ford-f-150-svt-raptor-2012-stock-version.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/romero.dff
+Mode `random_counted` | Counter `12` | custom-input/cars/2-doors/transfender/gta.img/pickup/ford-f-150-svt-raptor-2012-stock-version.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/romero.txd
+Mode `random_counted` | Counter `13` | custom-input/cars/2-doors/transfender/gta.img/hatchback/seaz-3d.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/sabre.dff
+Mode `random_counted` | Counter `13` | custom-input/cars/2-doors/transfender/gta.img/hatchback/seaz-3d.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/sabre.txd
+Mode `random_counted` | Counter `14` | custom-input/cars/2-doors/transfender/gta.img/hatchback/bmw/r56cooper.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/supergt.dff
+Mode `random_counted` | Counter `14` | custom-input/cars/2-doors/transfender/gta.img/hatchback/bmw/r56cooper.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/supergt.txd
+Mode `random_counted` | Counter `15` | custom-input/cars/2-doors/transfender/gta.img/coupe/bmw-m6-coupe.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/turismo.dff
+Mode `random_counted` | Counter `15` | custom-input/cars/2-doors/transfender/gta.img/coupe/bmw-m6-coupe.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/turismo.txd
+Mode `random_counted` | Counter `16` | custom-input/cars/2-doors/transfender/gta.img/coupe/audi-ttrs.dff to custom-output/cars/textures-crazy-2-seat-cars-transfender/windsor.dff
+Mode `random_counted` | Counter `16` | custom-input/cars/2-doors/transfender/gta.img/coupe/audi-ttrs.txd to custom-output/cars/textures-crazy-2-seat-cars-transfender/windsor.txd
+output models:
+---
+alpha
+banshee
+buffalo
+bullet
+comet
+esperant
+euros
+feltzer
+fortune
+hermes
+hustler
+infernus
+romero
+sabre
+supergt
+turismo
+windsor
+---
+models: 17
+VEHICLES 4 SEAT
+
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxburg.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxville.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/rumpo.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/pony.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/rumpo.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/securica.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/ambulan.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/topfun.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/burrito.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/ambulan.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxville.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/securica.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/burrito.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/topfun.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/enforcer.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/pony.txd
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/enforcer.dff
+custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxburg.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/pickup-trucks/gta.img/van/mercedes-benz-vito-ccd.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/ambulan.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/pickup-trucks/gta.img/van/mercedes-benz-vito-ccd.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/ambulan.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/marcedes-benz-g63-brabus-p900-rocket-edition.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxburg.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/marcedes-benz-g63-brabus-p900-rocket-edition.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxburg.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/lixiang-li9.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxville.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/lixiang-li9.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/boxville.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/chenvrolet-suburban-lt.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/burrito.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/chenvrolet-suburban-lt.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/burrito.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/bmw/bmw-x6m-aa.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/enforcer.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/bmw/bmw-x6m-aa.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/enforcer.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/volvo-xc90-black.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/pony.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/volvo-xc90-black.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/pony.txd
+Mode `random_counted` | Counter `6` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/bmw/bmw-x3-2024.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/rumpo.dff
+Mode `random_counted` | Counter `6` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/bmw/bmw-x3-2024.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/rumpo.txd
+Mode `random_counted` | Counter `7` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/lexus-lx570-19th.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/securica.dff
+Mode `random_counted` | Counter `7` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/lexus-lx570-19th.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/securica.txd
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/chenvrolet-suburban-lt.dff to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/topfun.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/pickup-trucks/gta.img/suv/chenvrolet-suburban-lt.txd to custom-output/cars/textures-crazy-4-seat-cars-pickup-trucks/topfun.txd
+output models:
+---
+ambulan
+boxburg
+boxville
+burrito
+enforcer
+pony
+rumpo
+securica
+topfun
+---
+models: 9
+
+/home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/polmav.txd
+/home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/maverick.dff
+/home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/maverick.txd
+/home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/polmav.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/helicopters/4-seat/gta.img/fun-maverick.dff to /home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/maverick.dff
+Mode `random_counted` | Counter `0` | custom-input/helicopters/4-seat/gta.img/fun-maverick.txd to /home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/maverick.txd
+Mode `random_counted` | Counter `1` | custom-input/helicopters/4-seat/gta.img/helicopter-de-la-policia-nacional-del-paraguay.dff to /home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/polmav.dff
+Mode `random_counted` | Counter `1` | custom-input/helicopters/4-seat/gta.img/helicopter-de-la-policia-nacional-del-paraguay.txd to /home/jean_abraham/Proyectos/Programacion/python/gitclones/gta-3d-mapper/output/polmav.txd
+output models:
+---
+maverick
+polmav
+---
+models: 2
+
+custom-output/cars/textures-crazy-4-seat-cars-none/glenshit.txd
+custom-output/cars/textures-crazy-4-seat-cars-none/copcarla.dff
+custom-output/cars/textures-crazy-4-seat-cars-none/patriot.txd
+custom-output/cars/textures-crazy-4-seat-cars-none/fbiranch.txd
+custom-output/cars/textures-crazy-4-seat-cars-none/copcarvg.dff
+custom-output/cars/textures-crazy-4-seat-cars-none/fbiranch.dff
+custom-output/cars/textures-crazy-4-seat-cars-none/copcarsf.dff
+custom-output/cars/textures-crazy-4-seat-cars-none/copcarvg.txd
+custom-output/cars/textures-crazy-4-seat-cars-none/copcarla.txd
+custom-output/cars/textures-crazy-4-seat-cars-none/copcarsf.txd
+custom-output/cars/textures-crazy-4-seat-cars-none/patriot.dff
+custom-output/cars/textures-crazy-4-seat-cars-none/glenshit.dff
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/transfender/gta.img/coupe/bmw-m3cs-blue-edition.dff to custom-output/cars/textures-crazy-4-seat-cars-none/copcarla.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/transfender/gta.img/coupe/bmw-m3cs-blue-edition.txd to custom-output/cars/textures-crazy-4-seat-cars-none/copcarla.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/4-doors/transfender/gta.img/sedan/volkswagen-bora-selie.dff to custom-output/cars/textures-crazy-4-seat-cars-none/copcarsf.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/4-doors/transfender/gta.img/sedan/volkswagen-bora-selie.txd to custom-output/cars/textures-crazy-4-seat-cars-none/copcarsf.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/4-doors/transfender/gta.img/sedan/fiat-berlina.dff to custom-output/cars/textures-crazy-4-seat-cars-none/copcarvg.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/4-doors/transfender/gta.img/sedan/fiat-berlina.txd to custom-output/cars/textures-crazy-4-seat-cars-none/copcarvg.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/4-doors/transfender/gta.img/hatchback/chrysler-pt-cruiser-v11.dff to custom-output/cars/textures-crazy-4-seat-cars-none/fbiranch.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/4-doors/transfender/gta.img/hatchback/chrysler-pt-cruiser-v11.txd to custom-output/cars/textures-crazy-4-seat-cars-none/fbiranch.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/4-doors/transfender/gta.img/hatchback/deawoo-matiz.dff to custom-output/cars/textures-crazy-4-seat-cars-none/glenshit.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/4-doors/transfender/gta.img/hatchback/deawoo-matiz.txd to custom-output/cars/textures-crazy-4-seat-cars-none/glenshit.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/4-doors/transfender/gta.img/coupe/mercedes-benz-cle-2025.dff to custom-output/cars/textures-crazy-4-seat-cars-none/patriot.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/4-doors/transfender/gta.img/coupe/mercedes-benz-cle-2025.txd to custom-output/cars/textures-crazy-4-seat-cars-none/patriot.txd
+output models:
+---
+copcarla
+copcarsf
+copcarvg
+fbiranch
+glenshit
+patriot
+---
+models: 6
+
+custom-output/cars/textures-crazy-4-seat-cars-transfender/stretch.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/oceanic.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/admiral.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/elegant.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/solair.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/glendale.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/huntley.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/elegant.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/regina.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/huntley.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/oceanic.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/cabbie.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/regina.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/stretch.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/admiral.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/solair.dff
+custom-output/cars/textures-crazy-4-seat-cars-transfender/cabbie.txd
+custom-output/cars/textures-crazy-4-seat-cars-transfender/glendale.txd
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/transfender/gta.img/hatchback/note-2011.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/admiral.dff
+Mode `random_counted` | Counter `0` | custom-input/cars/4-doors/transfender/gta.img/hatchback/note-2011.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/admiral.txd
+Mode `random_counted` | Counter `1` | custom-input/cars/4-doors/transfender/gta.img/hatchback/ford-focus-titan-sa.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/cabbie.dff
+Mode `random_counted` | Counter `1` | custom-input/cars/4-doors/transfender/gta.img/hatchback/ford-focus-titan-sa.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/cabbie.txd
+Mode `random_counted` | Counter `2` | custom-input/cars/4-doors/transfender/gta.img/coupe/bmw-m3cs-blue-edition.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/elegant.dff
+Mode `random_counted` | Counter `2` | custom-input/cars/4-doors/transfender/gta.img/coupe/bmw-m3cs-blue-edition.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/elegant.txd
+Mode `random_counted` | Counter `3` | custom-input/cars/4-doors/transfender/gta.img/sedan/pars-elx-90-koso.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/glendale.dff
+Mode `random_counted` | Counter `3` | custom-input/cars/4-doors/transfender/gta.img/sedan/pars-elx-90-koso.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/glendale.txd
+Mode `random_counted` | Counter `4` | custom-input/cars/4-doors/transfender/gta.img/sedan/volkswagen-lamando-l-380-t-si-gts.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/huntley.dff
+Mode `random_counted` | Counter `4` | custom-input/cars/4-doors/transfender/gta.img/sedan/volkswagen-lamando-l-380-t-si-gts.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/huntley.txd
+Mode `random_counted` | Counter `5` | custom-input/cars/4-doors/transfender/gta.img/sedan/fiat-berlina.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/oceanic.dff
+Mode `random_counted` | Counter `5` | custom-input/cars/4-doors/transfender/gta.img/sedan/fiat-berlina.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/oceanic.txd
+Mode `random_counted` | Counter `6` | custom-input/cars/4-doors/transfender/gta.img/hatchback/chrysler-pt-cruiser-v11.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/regina.dff
+Mode `random_counted` | Counter `6` | custom-input/cars/4-doors/transfender/gta.img/hatchback/chrysler-pt-cruiser-v11.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/regina.txd
+Mode `random_counted` | Counter `7` | custom-input/cars/4-doors/transfender/gta.img/sedan/chevrolet-impala-jomike.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/solair.dff
+Mode `random_counted` | Counter `7` | custom-input/cars/4-doors/transfender/gta.img/sedan/chevrolet-impala-jomike.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/solair.txd
+Mode `random_counted` | Counter `8` | custom-input/cars/4-doors/transfender/gta.img/sedan/mercedes-s63e-w223-mansory.dff to custom-output/cars/textures-crazy-4-seat-cars-transfender/stretch.dff
+Mode `random_counted` | Counter `8` | custom-input/cars/4-doors/transfender/gta.img/sedan/mercedes-s63e-w223-mansory.txd to custom-output/cars/textures-crazy-4-seat-cars-transfender/stretch.txd
+output models:
+---
+admiral
+cabbie
+elegant
+glendale
+huntley
+oceanic
+regina
+solair
+stretch
+---
+models: 9
+PEDS MEN
+
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/nintendo/mariano.dff to custom-output/peds/textures-crazy-peds-men-normal/army.dff
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/nintendo/mariano.txd to custom-output/peds/textures-crazy-peds-men-normal/army.txd
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/marvel/capzombie.dff to custom-output/peds/textures-crazy-peds-men-normal/ballas1.dff
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/marvel/capzombie.txd to custom-output/peds/textures-crazy-peds-men-normal/ballas1.txd
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/halo/halo-alien-elite.dff to custom-output/peds/textures-crazy-peds-men-normal/ballas2.dff
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/halo/halo-alien-elite.txd to custom-output/peds/textures-crazy-peds-men-normal/ballas2.txd
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/2026-02-06/pubg-random.dff to custom-output/peds/textures-crazy-peds-men-normal/ballas3.dff
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/2026-02-06/pubg-random.txd to custom-output/peds/textures-crazy-peds-men-normal/ballas3.txd
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/maxpayne.dff to custom-output/peds/textures-crazy-peds-men-normal/bikdrug.dff
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/maxpayne.txd to custom-output/peds/textures-crazy-peds-men-normal/bikdrug.txd
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/megaman.dff to custom-output/peds/textures-crazy-peds-men-normal/bikera.dff
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/megaman.txd to custom-output/peds/textures-crazy-peds-men-normal/bikera.txd
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/homer.dff to custom-output/peds/textures-crazy-peds-men-normal/bikerb.dff
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/homer.txd to custom-output/peds/textures-crazy-peds-men-normal/bikerb.txd
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/mios/chip.dff to custom-output/peds/textures-crazy-peds-men-normal/bmobar.dff
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/mios/chip.txd to custom-output/peds/textures-crazy-peds-men-normal/bmobar.txd
+Mode `random_counted` | Counter `8` | custom-input/peds/men/gta.img/purpleguy.dff to custom-output/peds/textures-crazy-peds-men-normal/bmocd.dff
+Mode `random_counted` | Counter `8` | custom-input/peds/men/gta.img/purpleguy.txd to custom-output/peds/textures-crazy-peds-men-normal/bmocd.txd
+Mode `random_counted` | Counter `9` | custom-input/peds/men/gta.img/arthur-morgan.dff to custom-output/peds/textures-crazy-peds-men-normal/bmochil.dff
+Mode `random_counted` | Counter `9` | custom-input/peds/men/gta.img/arthur-morgan.txd to custom-output/peds/textures-crazy-peds-men-normal/bmochil.txd
+Mode `random_counted` | Counter `10` | custom-input/peds/men/gta.img/dc/bat95.dff to custom-output/peds/textures-crazy-peds-men-normal/bmori.dff
+Mode `random_counted` | Counter `10` | custom-input/peds/men/gta.img/dc/bat95.txd to custom-output/peds/textures-crazy-peds-men-normal/bmori.txd
+Mode `random_counted` | Counter `11` | custom-input/peds/men/gta.img/dc/Joker.dff to custom-output/peds/textures-crazy-peds-men-normal/bmost.dff
+Mode `random_counted` | Counter `11` | custom-input/peds/men/gta.img/dc/Joker.txd to custom-output/peds/textures-crazy-peds-men-normal/bmost.txd
+Mode `random_counted` | Counter `12` | custom-input/peds/men/gta.img/fortnite/fortnite-cursed-jack-sparrow.dff to custom-output/peds/textures-crazy-peds-men-normal/bmotr1.dff
+Mode `random_counted` | Counter `12` | custom-input/peds/men/gta.img/fortnite/fortnite-cursed-jack-sparrow.txd to custom-output/peds/textures-crazy-peds-men-normal/bmotr1.txd
+Mode `random_counted` | Counter `13` | custom-input/peds/men/gta.img/Marty McFly.dff to custom-output/peds/textures-crazy-peds-men-normal/bmybar.dff
+Mode `random_counted` | Counter `13` | custom-input/peds/men/gta.img/Marty McFly.txd to custom-output/peds/textures-crazy-peds-men-normal/bmybar.txd
+Mode `random_counted` | Counter `14` | custom-input/peds/men/gta.img/regular-show/cassette.dff to custom-output/peds/textures-crazy-peds-men-normal/bmybe.dff
+Mode `random_counted` | Counter `14` | custom-input/peds/men/gta.img/regular-show/cassette.txd to custom-output/peds/textures-crazy-peds-men-normal/bmybe.txd
+Mode `random_counted` | Counter `15` | custom-input/peds/men/gta.img/alien.dff to custom-output/peds/textures-crazy-peds-men-normal/bmyboun.dff
+Mode `random_counted` | Counter `15` | custom-input/peds/men/gta.img/alien.txd to custom-output/peds/textures-crazy-peds-men-normal/bmyboun.txd
+Mode `random_counted` | Counter `16` | custom-input/peds/men/gta.img/RustGuy.dff to custom-output/peds/textures-crazy-peds-men-normal/bmybu.dff
+Mode `random_counted` | Counter `16` | custom-input/peds/men/gta.img/RustGuy.txd to custom-output/peds/textures-crazy-peds-men-normal/bmybu.txd
+Mode `random_counted` | Counter `17` | custom-input/peds/men/gta.img/walter-white.dff to custom-output/peds/textures-crazy-peds-men-normal/bmycg.dff
+Mode `random_counted` | Counter `17` | custom-input/peds/men/gta.img/walter-white.txd to custom-output/peds/textures-crazy-peds-men-normal/bmycg.txd
+Mode `random_counted` | Counter `18` | custom-input/peds/men/gta.img/bungie-zombie.dff to custom-output/peds/textures-crazy-peds-men-normal/bmycon.dff
+Mode `random_counted` | Counter `18` | custom-input/peds/men/gta.img/bungie-zombie.txd to custom-output/peds/textures-crazy-peds-men-normal/bmycon.txd
+Mode `random_counted` | Counter `19` | custom-input/peds/men/gta.img/nintendo/melee-luigi.dff to custom-output/peds/textures-crazy-peds-men-normal/bmycr.dff
+Mode `random_counted` | Counter `19` | custom-input/peds/men/gta.img/nintendo/melee-luigi.txd to custom-output/peds/textures-crazy-peds-men-normal/bmycr.txd
+Mode `random_counted` | Counter `20` | custom-input/peds/men/gta.img/mios/cubiman.dff to custom-output/peds/textures-crazy-peds-men-normal/bmydj.dff
+Mode `random_counted` | Counter `20` | custom-input/peds/men/gta.img/mios/cubiman.txd to custom-output/peds/textures-crazy-peds-men-normal/bmydj.txd
+Mode `random_counted` | Counter `21` | custom-input/peds/men/gta.img/fortnite/fortnite-doom-slayer.dff to custom-output/peds/textures-crazy-peds-men-normal/bmydrug.dff
+Mode `random_counted` | Counter `21` | custom-input/peds/men/gta.img/fortnite/fortnite-doom-slayer.txd to custom-output/peds/textures-crazy-peds-men-normal/bmydrug.txd
+Mode `random_counted` | Counter `22` | custom-input/peds/men/gta.img/Neo.dff to custom-output/peds/textures-crazy-peds-men-normal/bmymib.dff
+Mode `random_counted` | Counter `22` | custom-input/peds/men/gta.img/Neo.txd to custom-output/peds/textures-crazy-peds-men-normal/bmymib.txd
+Mode `random_counted` | Counter `23` | custom-input/peds/men/gta.img/chavo/don-ramon.dff to custom-output/peds/textures-crazy-peds-men-normal/bmymoun.dff
+Mode `random_counted` | Counter `23` | custom-input/peds/men/gta.img/chavo/don-ramon.txd to custom-output/peds/textures-crazy-peds-men-normal/bmymoun.txd
+Mode `random_counted` | Counter `24` | custom-input/peds/men/gta.img/fnaf/UnwFreddy.dff to custom-output/peds/textures-crazy-peds-men-normal/bmypimp.dff
+Mode `random_counted` | Counter `24` | custom-input/peds/men/gta.img/fnaf/UnwFreddy.txd to custom-output/peds/textures-crazy-peds-men-normal/bmypimp.txd
+Mode `random_counted` | Counter `25` | custom-input/peds/men/gta.img/shrek.dff to custom-output/peds/textures-crazy-peds-men-normal/bmyri.dff
+Mode `random_counted` | Counter `25` | custom-input/peds/men/gta.img/shrek.txd to custom-output/peds/textures-crazy-peds-men-normal/bmyri.txd
+Mode `random_counted` | Counter `26` | custom-input/peds/men/gta.img/fnaf/Withered Bonnie Beta.dff to custom-output/peds/textures-crazy-peds-men-normal/bmyst.dff
+Mode `random_counted` | Counter `26` | custom-input/peds/men/gta.img/fnaf/Withered Bonnie Beta.txd to custom-output/peds/textures-crazy-peds-men-normal/bmyst.txd
+Mode `random_counted` | Counter `27` | custom-input/peds/men/gta.img/gta/franklin-dlc.dff to custom-output/peds/textures-crazy-peds-men-normal/csher.dff
+Mode `random_counted` | Counter `27` | custom-input/peds/men/gta.img/gta/franklin-dlc.txd to custom-output/peds/textures-crazy-peds-men-normal/csher.txd
+Mode `random_counted` | Counter `28` | custom-input/peds/men/gta.img/Woody.dff to custom-output/peds/textures-crazy-peds-men-normal/cwmofr.dff
+Mode `random_counted` | Counter `28` | custom-input/peds/men/gta.img/Woody.txd to custom-output/peds/textures-crazy-peds-men-normal/cwmofr.txd
+Mode `random_counted` | Counter `29` | custom-input/peds/men/gta.img/nintendo/gdorf.dff to custom-output/peds/textures-crazy-peds-men-normal/cwmohb1.dff
+Mode `random_counted` | Counter `29` | custom-input/peds/men/gta.img/nintendo/gdorf.txd to custom-output/peds/textures-crazy-peds-men-normal/cwmohb1.txd
+Mode `random_counted` | Counter `30` | custom-input/peds/men/gta.img/yorobot.dff to custom-output/peds/textures-crazy-peds-men-normal/cwmohb2.dff
+Mode `random_counted` | Counter `30` | custom-input/peds/men/gta.img/yorobot.txd to custom-output/peds/textures-crazy-peds-men-normal/cwmohb2.txd
+Mode `random_counted` | Counter `31` | custom-input/peds/men/gta.img/dave.dff to custom-output/peds/textures-crazy-peds-men-normal/cwmyfr.dff
+Mode `random_counted` | Counter `31` | custom-input/peds/men/gta.img/dave.txd to custom-output/peds/textures-crazy-peds-men-normal/cwmyfr.txd
+Mode `random_counted` | Counter `32` | custom-input/peds/men/gta.img/mtcrss.dff to custom-output/peds/textures-crazy-peds-men-normal/cwmyhb1.dff
+Mode `random_counted` | Counter `32` | custom-input/peds/men/gta.img/mtcrss.txd to custom-output/peds/textures-crazy-peds-men-normal/cwmyhb1.txd
+Mode `random_counted` | Counter `33` | custom-input/peds/men/gta.img/Agent17.dff to custom-output/peds/textures-crazy-peds-men-normal/cwmyhb2.dff
+Mode `random_counted` | Counter `33` | custom-input/peds/men/gta.img/Agent17.txd to custom-output/peds/textures-crazy-peds-men-normal/cwmyhb2.txd
+Mode `random_counted` | Counter `34` | custom-input/peds/men/gta.img/kermit.dff to custom-output/peds/textures-crazy-peds-men-normal/dnb1.dff
+Mode `random_counted` | Counter `34` | custom-input/peds/men/gta.img/kermit.txd to custom-output/peds/textures-crazy-peds-men-normal/dnb1.txd
+Mode `random_counted` | Counter `35` | custom-input/peds/men/gta.img/fortnite/fortnite-rubius-sin-gafas.dff to custom-output/peds/textures-crazy-peds-men-normal/dnb2.dff
+Mode `random_counted` | Counter `35` | custom-input/peds/men/gta.img/fortnite/fortnite-rubius-sin-gafas.txd to custom-output/peds/textures-crazy-peds-men-normal/dnb2.txd
+Mode `random_counted` | Counter `36` | custom-input/peds/men/gta.img/counter-strike/counter-strike-2-leet.dff to custom-output/peds/textures-crazy-peds-men-normal/dnb3.dff
+Mode `random_counted` | Counter `36` | custom-input/peds/men/gta.img/counter-strike/counter-strike-2-leet.txd to custom-output/peds/textures-crazy-peds-men-normal/dnb3.txd
+Mode `random_counted` | Counter `37` | custom-input/peds/men/gta.img/fortnite/employee-fortnite.dff to custom-output/peds/textures-crazy-peds-men-normal/dnmolc1.dff
+Mode `random_counted` | Counter `37` | custom-input/peds/men/gta.img/fortnite/employee-fortnite.txd to custom-output/peds/textures-crazy-peds-men-normal/dnmolc1.txd
+Mode `random_counted` | Counter `38` | custom-input/peds/men/gta.img/half-life/half-life-2-metrocop-remake-hd.dff to custom-output/peds/textures-crazy-peds-men-normal/dnmolc2.dff
+Mode `random_counted` | Counter `38` | custom-input/peds/men/gta.img/half-life/half-life-2-metrocop-remake-hd.txd to custom-output/peds/textures-crazy-peds-men-normal/dnmolc2.txd
+Mode `random_counted` | Counter `39` | custom-input/peds/men/gta.img/nintendo/brawl-snake.dff to custom-output/peds/textures-crazy-peds-men-normal/dwmolc1.dff
+Mode `random_counted` | Counter `39` | custom-input/peds/men/gta.img/nintendo/brawl-snake.txd to custom-output/peds/textures-crazy-peds-men-normal/dwmolc1.txd
+Mode `random_counted` | Counter `40` | custom-input/peds/men/gta.img/fortnite/fortnite-bonejamin.dff to custom-output/peds/textures-crazy-peds-men-normal/dwmolc2.dff
+Mode `random_counted` | Counter `40` | custom-input/peds/men/gta.img/fortnite/fortnite-bonejamin.txd to custom-output/peds/textures-crazy-peds-men-normal/dwmolc2.txd
+Mode `random_counted` | Counter `41` | custom-input/peds/men/gta.img/arnold1.dff to custom-output/peds/textures-crazy-peds-men-normal/dwmylc1.dff
+Mode `random_counted` | Counter `41` | custom-input/peds/men/gta.img/arnold1.txd to custom-output/peds/textures-crazy-peds-men-normal/dwmylc1.txd
+Mode `random_counted` | Counter `42` | custom-input/peds/men/gta.img/halo/halo-marine1.dff to custom-output/peds/textures-crazy-peds-men-normal/dwmylc2.dff
+Mode `random_counted` | Counter `42` | custom-input/peds/men/gta.img/halo/halo-marine1.txd to custom-output/peds/textures-crazy-peds-men-normal/dwmylc2.txd
+Mode `random_counted` | Counter `43` | custom-input/peds/men/gta.img/bobrito-bandito-itailan-brainrot.dff to custom-output/peds/textures-crazy-peds-men-normal/fam1.dff
+Mode `random_counted` | Counter `43` | custom-input/peds/men/gta.img/bobrito-bandito-itailan-brainrot.txd to custom-output/peds/textures-crazy-peds-men-normal/fam1.txd
+Mode `random_counted` | Counter `44` | custom-input/peds/men/gta.img/half-life/freeman.dff to custom-output/peds/textures-crazy-peds-men-normal/fam2.dff
+Mode `random_counted` | Counter `44` | custom-input/peds/men/gta.img/half-life/freeman.txd to custom-output/peds/textures-crazy-peds-men-normal/fam2.txd
+Mode `random_counted` | Counter `45` | custom-input/peds/men/gta.img/tonyhwk.dff to custom-output/peds/textures-crazy-peds-men-normal/fam3.dff
+Mode `random_counted` | Counter `45` | custom-input/peds/men/gta.img/tonyhwk.txd to custom-output/peds/textures-crazy-peds-men-normal/fam3.txd
+Mode `random_counted` | Counter `46` | custom-input/peds/men/gta.img/chavo/chavo.dff to custom-output/peds/textures-crazy-peds-men-normal/fbi.dff
+Mode `random_counted` | Counter `46` | custom-input/peds/men/gta.img/chavo/chavo.txd to custom-output/peds/textures-crazy-peds-men-normal/fbi.txd
+Mode `random_counted` | Counter `47` | custom-input/peds/men/gta.img/meme-de-pepe-la-rana-gangster.dff to custom-output/peds/textures-crazy-peds-men-normal/hmogar.dff
+Mode `random_counted` | Counter `47` | custom-input/peds/men/gta.img/meme-de-pepe-la-rana-gangster.txd to custom-output/peds/textures-crazy-peds-men-normal/hmogar.txd
+Mode `random_counted` | Counter `48` | custom-input/peds/men/gta.img/CyborgTT.dff to custom-output/peds/textures-crazy-peds-men-normal/hmori.dff
+Mode `random_counted` | Counter `48` | custom-input/peds/men/gta.img/CyborgTT.txd to custom-output/peds/textures-crazy-peds-men-normal/hmori.txd
+Mode `random_counted` | Counter `49` | custom-input/peds/men/gta.img/grunt-soldier-syndicate.dff to custom-output/peds/textures-crazy-peds-men-normal/hmost.dff
+Mode `random_counted` | Counter `49` | custom-input/peds/men/gta.img/grunt-soldier-syndicate.txd to custom-output/peds/textures-crazy-peds-men-normal/hmost.txd
+Mode `random_counted` | Counter `50` | custom-input/peds/men/gta.img/nintendo/captain-falcon.dff to custom-output/peds/textures-crazy-peds-men-normal/hmybe.dff
+Mode `random_counted` | Counter `50` | custom-input/peds/men/gta.img/nintendo/captain-falcon.txd to custom-output/peds/textures-crazy-peds-men-normal/hmybe.txd
+Mode `random_counted` | Counter `51` | custom-input/peds/men/gta.img/regular-show/rigby.dff to custom-output/peds/textures-crazy-peds-men-normal/hmycm.dff
+Mode `random_counted` | Counter `51` | custom-input/peds/men/gta.img/regular-show/rigby.txd to custom-output/peds/textures-crazy-peds-men-normal/hmycm.txd
+Mode `random_counted` | Counter `52` | custom-input/peds/men/gta.img/gta/niko-bellic.dff to custom-output/peds/textures-crazy-peds-men-normal/hmycr.dff
+Mode `random_counted` | Counter `52` | custom-input/peds/men/gta.img/gta/niko-bellic.txd to custom-output/peds/textures-crazy-peds-men-normal/hmycr.txd
+Mode `random_counted` | Counter `53` | custom-input/peds/men/gta.img/robot end.dff to custom-output/peds/textures-crazy-peds-men-normal/hmydrug.dff
+Mode `random_counted` | Counter `53` | custom-input/peds/men/gta.img/robot end.txd to custom-output/peds/textures-crazy-peds-men-normal/hmydrug.txd
+Mode `random_counted` | Counter `54` | custom-input/peds/men/gta.img/chavo/quico-kiko-v2.dff to custom-output/peds/textures-crazy-peds-men-normal/hmyri.dff
+Mode `random_counted` | Counter `54` | custom-input/peds/men/gta.img/chavo/quico-kiko-v2.txd to custom-output/peds/textures-crazy-peds-men-normal/hmyri.txd
+Mode `random_counted` | Counter `55` | custom-input/peds/men/gta.img/T-51bPowerArmor.dff to custom-output/peds/textures-crazy-peds-men-normal/hmyst.dff
+Mode `random_counted` | Counter `55` | custom-input/peds/men/gta.img/T-51bPowerArmor.txd to custom-output/peds/textures-crazy-peds-men-normal/hmyst.txd
+Mode `random_counted` | Counter `56` | custom-input/peds/men/gta.img/steve.dff to custom-output/peds/textures-crazy-peds-men-normal/laemt1.dff
+Mode `random_counted` | Counter `56` | custom-input/peds/men/gta.img/steve.txd to custom-output/peds/textures-crazy-peds-men-normal/laemt1.txd
+Mode `random_counted` | Counter `57` | custom-input/peds/men/gta.img/nintendo/brawl-link.dff to custom-output/peds/textures-crazy-peds-men-normal/lafd1.dff
+Mode `random_counted` | Counter `57` | custom-input/peds/men/gta.img/nintendo/brawl-link.txd to custom-output/peds/textures-crazy-peds-men-normal/lafd1.txd
+Mode `random_counted` | Counter `58` | custom-input/peds/men/gta.img/half-life/half-life-cj.dff to custom-output/peds/textures-crazy-peds-men-normal/lapd1.dff
+Mode `random_counted` | Counter `58` | custom-input/peds/men/gta.img/half-life/half-life-cj.txd to custom-output/peds/textures-crazy-peds-men-normal/lapd1.txd
+Mode `random_counted` | Counter `59` | custom-input/peds/men/gta.img/fortnite/fortnite-peter-griffin.dff to custom-output/peds/textures-crazy-peds-men-normal/lapdm1.dff
+Mode `random_counted` | Counter `59` | custom-input/peds/men/gta.img/fortnite/fortnite-peter-griffin.txd to custom-output/peds/textures-crazy-peds-men-normal/lapdm1.txd
+Mode `random_counted` | Counter `60` | custom-input/peds/men/gta.img/ddoom.dff to custom-output/peds/textures-crazy-peds-men-normal/lsv1.dff
+Mode `random_counted` | Counter `60` | custom-input/peds/men/gta.img/ddoom.txd to custom-output/peds/textures-crazy-peds-men-normal/lsv1.txd
+Mode `random_counted` | Counter `61` | custom-input/peds/men/gta.img/mios/lolMan.dff to custom-output/peds/textures-crazy-peds-men-normal/lsv2.dff
+Mode `random_counted` | Counter `61` | custom-input/peds/men/gta.img/mios/lolMan.txd to custom-output/peds/textures-crazy-peds-men-normal/lsv2.txd
+Mode `random_counted` | Counter `62` | custom-input/peds/men/gta.img/halo/master-chief.dff to custom-output/peds/textures-crazy-peds-men-normal/lsv3.dff
+Mode `random_counted` | Counter `62` | custom-input/peds/men/gta.img/halo/master-chief.txd to custom-output/peds/textures-crazy-peds-men-normal/lsv3.txd
+Mode `random_counted` | Counter `63` | custom-input/peds/men/gta.img/tf2roboengi.dff to custom-output/peds/textures-crazy-peds-men-normal/lvemt1.dff
+Mode `random_counted` | Counter `63` | custom-input/peds/men/gta.img/tf2roboengi.txd to custom-output/peds/textures-crazy-peds-men-normal/lvemt1.txd
+Mode `random_counted` | Counter `64` | custom-input/peds/men/gta.img/mios/cubibob.dff to custom-output/peds/textures-crazy-peds-men-normal/lvfd1.dff
+Mode `random_counted` | Counter `64` | custom-input/peds/men/gta.img/mios/cubibob.txd to custom-output/peds/textures-crazy-peds-men-normal/lvfd1.txd
+Mode `random_counted` | Counter `65` | custom-input/peds/men/gta.img/half-life/half-life-zombie.dff to custom-output/peds/textures-crazy-peds-men-normal/lvpd1.dff
+Mode `random_counted` | Counter `65` | custom-input/peds/men/gta.img/half-life/half-life-zombie.txd to custom-output/peds/textures-crazy-peds-men-normal/lvpd1.txd
+Mode `random_counted` | Counter `66` | custom-input/peds/men/gta.img/re4 leon.dff to custom-output/peds/textures-crazy-peds-men-normal/mafboss.dff
+Mode `random_counted` | Counter `66` | custom-input/peds/men/gta.img/re4 leon.txd to custom-output/peds/textures-crazy-peds-men-normal/mafboss.txd
+Mode `random_counted` | Counter `67` | custom-input/peds/men/gta.img/chavo/chapulin-colorado.dff to custom-output/peds/textures-crazy-peds-men-normal/maffa.dff
+Mode `random_counted` | Counter `67` | custom-input/peds/men/gta.img/chavo/chapulin-colorado.txd to custom-output/peds/textures-crazy-peds-men-normal/maffa.txd
+Mode `random_counted` | Counter `68` | custom-input/peds/men/gta.img/marvel/capitan-civil-war.dff to custom-output/peds/textures-crazy-peds-men-normal/maffb.dff
+Mode `random_counted` | Counter `68` | custom-input/peds/men/gta.img/marvel/capitan-civil-war.txd to custom-output/peds/textures-crazy-peds-men-normal/maffb.txd
+Mode `random_counted` | Counter `69` | custom-input/peds/men/gta.img/regular-show/mordecai.dff to custom-output/peds/textures-crazy-peds-men-normal/male01.dff
+Mode `random_counted` | Counter `69` | custom-input/peds/men/gta.img/regular-show/mordecai.txd to custom-output/peds/textures-crazy-peds-men-normal/male01.txd
+Mode `random_counted` | Counter `70` | custom-input/peds/men/gta.img/FroSoni.dff to custom-output/peds/textures-crazy-peds-men-normal/omonood.dff
+Mode `random_counted` | Counter `70` | custom-input/peds/men/gta.img/FroSoni.txd to custom-output/peds/textures-crazy-peds-men-normal/omonood.txd
+Mode `random_counted` | Counter `71` | custom-input/peds/men/gta.img/grievous.dff to custom-output/peds/textures-crazy-peds-men-normal/omori.dff
+Mode `random_counted` | Counter `71` | custom-input/peds/men/gta.img/grievous.txd to custom-output/peds/textures-crazy-peds-men-normal/omori.txd
+Mode `random_counted` | Counter `72` | custom-input/peds/men/gta.img/counter-strike/cssas.dff to custom-output/peds/textures-crazy-peds-men-normal/omost.dff
+Mode `random_counted` | Counter `72` | custom-input/peds/men/gta.img/counter-strike/cssas.txd to custom-output/peds/textures-crazy-peds-men-normal/omost.txd
+Mode `random_counted` | Counter `73` | custom-input/peds/men/gta.img/mios/stickman.dff to custom-output/peds/textures-crazy-peds-men-normal/omykara.dff
+Mode `random_counted` | Counter `73` | custom-input/peds/men/gta.img/mios/stickman.txd to custom-output/peds/textures-crazy-peds-men-normal/omykara.txd
+Mode `random_counted` | Counter `74` | custom-input/peds/men/gta.img/fin-el-humano.dff to custom-output/peds/textures-crazy-peds-men-normal/omyri.dff
+Mode `random_counted` | Counter `74` | custom-input/peds/men/gta.img/fin-el-humano.txd to custom-output/peds/textures-crazy-peds-men-normal/omyri.txd
+Mode `random_counted` | Counter `75` | custom-input/peds/men/gta.img/irnmanprimemd.dff to custom-output/peds/textures-crazy-peds-men-normal/omyst.dff
+Mode `random_counted` | Counter `75` | custom-input/peds/men/gta.img/irnmanprimemd.txd to custom-output/peds/textures-crazy-peds-men-normal/omyst.txd
+Mode `random_counted` | Counter `76` | custom-input/peds/men/gta.img/half-life/gman.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmocd.dff
+Mode `random_counted` | Counter `76` | custom-input/peds/men/gta.img/half-life/gman.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmocd.txd
+Mode `random_counted` | Counter `77` | custom-input/peds/men/gta.img/LEGO Stormtrooper.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmori.dff
+Mode `random_counted` | Counter `77` | custom-input/peds/men/gta.img/LEGO Stormtrooper.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmori.txd
+Mode `random_counted` | Counter `78` | custom-input/peds/men/gta.img/atlas-robot.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmost.dff
+Mode `random_counted` | Counter `78` | custom-input/peds/men/gta.img/atlas-robot.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmost.txd
+Mode `random_counted` | Counter `79` | custom-input/peds/men/gta.img/marvel/spiderman1.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmotr2.dff
+Mode `random_counted` | Counter `79` | custom-input/peds/men/gta.img/marvel/spiderman1.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmotr2.txd
+Mode `random_counted` | Counter `80` | custom-input/peds/men/gta.img/dc/The Superman.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmycr.dff
+Mode `random_counted` | Counter `80` | custom-input/peds/men/gta.img/dc/The Superman.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmycr.txd
+Mode `random_counted` | Counter `81` | custom-input/peds/men/gta.img/AsscDri.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmyri.dff
+Mode `random_counted` | Counter `81` | custom-input/peds/men/gta.img/AsscDri.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmyri.txd
+Mode `random_counted` | Counter `82` | custom-input/peds/men/gta.img/marvel/aiwthanos.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmyst.dff
+Mode `random_counted` | Counter `82` | custom-input/peds/men/gta.img/marvel/aiwthanos.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmyst.txd
+Mode `random_counted` | Counter `83` | custom-input/peds/men/gta.img/pepsiman.dff to custom-output/peds/textures-crazy-peds-men-normal/sbmytr3.dff
+Mode `random_counted` | Counter `83` | custom-input/peds/men/gta.img/pepsiman.txd to custom-output/peds/textures-crazy-peds-men-normal/sbmytr3.txd
+Mode `random_counted` | Counter `84` | custom-input/peds/men/gta.img/fortnite/fortnite-peacemaker.dff to custom-output/peds/textures-crazy-peds-men-normal/sdher.dff
+Mode `random_counted` | Counter `84` | custom-input/peds/men/gta.img/fortnite/fortnite-peacemaker.txd to custom-output/peds/textures-crazy-peds-men-normal/sdher.txd
+Mode `random_counted` | Counter `85` | custom-input/peds/men/gta.img/fortnite/fortinte-banana3.dff to custom-output/peds/textures-crazy-peds-men-normal/sfemt1.dff
+Mode `random_counted` | Counter `85` | custom-input/peds/men/gta.img/fortnite/fortinte-banana3.txd to custom-output/peds/textures-crazy-peds-men-normal/sfemt1.txd
+Mode `random_counted` | Counter `86` | custom-input/peds/men/gta.img/snoop.dff to custom-output/peds/textures-crazy-peds-men-normal/sffd1.dff
+Mode `random_counted` | Counter `86` | custom-input/peds/men/gta.img/snoop.txd to custom-output/peds/textures-crazy-peds-men-normal/sffd1.txd
+Mode `random_counted` | Counter `87` | custom-input/peds/men/gta.img/GigaChad.dff to custom-output/peds/textures-crazy-peds-men-normal/sfpd1.dff
+Mode `random_counted` | Counter `87` | custom-input/peds/men/gta.img/GigaChad.txd to custom-output/peds/textures-crazy-peds-men-normal/sfpd1.txd
+Mode `random_counted` | Counter `88` | custom-input/peds/men/gta.img/nintendo/brawl-donkey-kong.dff to custom-output/peds/textures-crazy-peds-men-normal/sfr1.dff
+Mode `random_counted` | Counter `88` | custom-input/peds/men/gta.img/nintendo/brawl-donkey-kong.txd to custom-output/peds/textures-crazy-peds-men-normal/sfr1.txd
+Mode `random_counted` | Counter `89` | custom-input/peds/men/gta.img/btllflz.dff to custom-output/peds/textures-crazy-peds-men-normal/sfr2.dff
+Mode `random_counted` | Counter `89` | custom-input/peds/men/gta.img/btllflz.txd to custom-output/peds/textures-crazy-peds-men-normal/sfr2.txd
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/maxpayne.dff to custom-output/peds/textures-crazy-peds-men-normal/sfr3.dff
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/maxpayne.txd to custom-output/peds/textures-crazy-peds-men-normal/sfr3.txd
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/fortnite/fortnite-bonejamin.dff to custom-output/peds/textures-crazy-peds-men-normal/shmycr.dff
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/fortnite/fortnite-bonejamin.txd to custom-output/peds/textures-crazy-peds-men-normal/shmycr.txd
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/fortnite/employee-fortnite.dff to custom-output/peds/textures-crazy-peds-men-normal/smyst.dff
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/fortnite/employee-fortnite.txd to custom-output/peds/textures-crazy-peds-men-normal/smyst.txd
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/mios/chip.dff to custom-output/peds/textures-crazy-peds-men-normal/smyst2.dff
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/mios/chip.txd to custom-output/peds/textures-crazy-peds-men-normal/smyst2.txd
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/arthur-morgan.dff to custom-output/peds/textures-crazy-peds-men-normal/somost.dff
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/arthur-morgan.txd to custom-output/peds/textures-crazy-peds-men-normal/somost.txd
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/chavo/chavo.dff to custom-output/peds/textures-crazy-peds-men-normal/somyri.dff
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/chavo/chavo.txd to custom-output/peds/textures-crazy-peds-men-normal/somyri.txd
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/RustGuy.dff to custom-output/peds/textures-crazy-peds-men-normal/somyst.dff
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/RustGuy.txd to custom-output/peds/textures-crazy-peds-men-normal/somyst.txd
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/meme-de-pepe-la-rana-gangster.dff to custom-output/peds/textures-crazy-peds-men-normal/swat.dff
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/meme-de-pepe-la-rana-gangster.txd to custom-output/peds/textures-crazy-peds-men-normal/swat.txd
+Mode `random_counted` | Counter `8` | custom-input/peds/men/gta.img/Agent17.dff to custom-output/peds/textures-crazy-peds-men-normal/swmocd.dff
+Mode `random_counted` | Counter `8` | custom-input/peds/men/gta.img/Agent17.txd to custom-output/peds/textures-crazy-peds-men-normal/swmocd.txd
+Mode `random_counted` | Counter `9` | custom-input/peds/men/gta.img/regular-show/mordecai.dff to custom-output/peds/textures-crazy-peds-men-normal/swmotr2.dff
+Mode `random_counted` | Counter `9` | custom-input/peds/men/gta.img/regular-show/mordecai.txd to custom-output/peds/textures-crazy-peds-men-normal/swmotr2.txd
+Mode `random_counted` | Counter `10` | custom-input/peds/men/gta.img/fortnite/fortnite-peter-griffin.dff to custom-output/peds/textures-crazy-peds-men-normal/swmotr3.dff
+Mode `random_counted` | Counter `10` | custom-input/peds/men/gta.img/fortnite/fortnite-peter-griffin.txd to custom-output/peds/textures-crazy-peds-men-normal/swmotr3.txd
+Mode `random_counted` | Counter `11` | custom-input/peds/men/gta.img/regular-show/cassette.dff to custom-output/peds/textures-crazy-peds-men-normal/swmotr4.dff
+Mode `random_counted` | Counter `11` | custom-input/peds/men/gta.img/regular-show/cassette.txd to custom-output/peds/textures-crazy-peds-men-normal/swmotr4.txd
+Mode `random_counted` | Counter `12` | custom-input/peds/men/gta.img/tonyhwk.dff to custom-output/peds/textures-crazy-peds-men-normal/swmotr5.dff
+Mode `random_counted` | Counter `12` | custom-input/peds/men/gta.img/tonyhwk.txd to custom-output/peds/textures-crazy-peds-men-normal/swmotr5.txd
+Mode `random_counted` | Counter `13` | custom-input/peds/men/gta.img/Woody.dff to custom-output/peds/textures-crazy-peds-men-normal/swmyhp1.dff
+Mode `random_counted` | Counter `13` | custom-input/peds/men/gta.img/Woody.txd to custom-output/peds/textures-crazy-peds-men-normal/swmyhp1.txd
+Mode `random_counted` | Counter `14` | custom-input/peds/men/gta.img/nintendo/captain-falcon.dff to custom-output/peds/textures-crazy-peds-men-normal/swmyhp2.dff
+Mode `random_counted` | Counter `14` | custom-input/peds/men/gta.img/nintendo/captain-falcon.txd to custom-output/peds/textures-crazy-peds-men-normal/swmyhp2.txd
+Mode `random_counted` | Counter `15` | custom-input/peds/men/gta.img/bungie-zombie.dff to custom-output/peds/textures-crazy-peds-men-normal/swmyri.dff
+Mode `random_counted` | Counter `15` | custom-input/peds/men/gta.img/bungie-zombie.txd to custom-output/peds/textures-crazy-peds-men-normal/swmyri.txd
+Mode `random_counted` | Counter `16` | custom-input/peds/men/gta.img/shrek.dff to custom-output/peds/textures-crazy-peds-men-normal/swmyst.dff
+Mode `random_counted` | Counter `16` | custom-input/peds/men/gta.img/shrek.txd to custom-output/peds/textures-crazy-peds-men-normal/swmyst.txd
+Mode `random_counted` | Counter `17` | custom-input/peds/men/gta.img/alien.dff to custom-output/peds/textures-crazy-peds-men-normal/triada.dff
+Mode `random_counted` | Counter `17` | custom-input/peds/men/gta.img/alien.txd to custom-output/peds/textures-crazy-peds-men-normal/triada.txd
+Mode `random_counted` | Counter `18` | custom-input/peds/men/gta.img/steve.dff to custom-output/peds/textures-crazy-peds-men-normal/triadb.dff
+Mode `random_counted` | Counter `18` | custom-input/peds/men/gta.img/steve.txd to custom-output/peds/textures-crazy-peds-men-normal/triadb.txd
+Mode `random_counted` | Counter `19` | custom-input/peds/men/gta.img/ddoom.dff to custom-output/peds/textures-crazy-peds-men-normal/triboss.dff
+Mode `random_counted` | Counter `19` | custom-input/peds/men/gta.img/ddoom.txd to custom-output/peds/textures-crazy-peds-men-normal/triboss.txd
+Mode `random_counted` | Counter `20` | custom-input/peds/men/gta.img/yorobot.dff to custom-output/peds/textures-crazy-peds-men-normal/vbmocd.dff
+Mode `random_counted` | Counter `20` | custom-input/peds/men/gta.img/yorobot.txd to custom-output/peds/textures-crazy-peds-men-normal/vbmocd.txd
+Mode `random_counted` | Counter `21` | custom-input/peds/men/gta.img/counter-strike/counter-strike-2-leet.dff to custom-output/peds/textures-crazy-peds-men-normal/vbmybox.dff
+Mode `random_counted` | Counter `21` | custom-input/peds/men/gta.img/counter-strike/counter-strike-2-leet.txd to custom-output/peds/textures-crazy-peds-men-normal/vbmybox.txd
+Mode `random_counted` | Counter `22` | custom-input/peds/men/gta.img/nintendo/brawl-donkey-kong.dff to custom-output/peds/textures-crazy-peds-men-normal/vbmycr.dff
+Mode `random_counted` | Counter `22` | custom-input/peds/men/gta.img/nintendo/brawl-donkey-kong.txd to custom-output/peds/textures-crazy-peds-men-normal/vbmycr.txd
+Mode `random_counted` | Counter `23` | custom-input/peds/men/gta.img/FroSoni.dff to custom-output/peds/textures-crazy-peds-men-normal/vbmyelv.dff
+Mode `random_counted` | Counter `23` | custom-input/peds/men/gta.img/FroSoni.txd to custom-output/peds/textures-crazy-peds-men-normal/vbmyelv.txd
+Mode `random_counted` | Counter `24` | custom-input/peds/men/gta.img/arnold1.dff to custom-output/peds/textures-crazy-peds-men-normal/vhmycr.dff
+Mode `random_counted` | Counter `24` | custom-input/peds/men/gta.img/arnold1.txd to custom-output/peds/textures-crazy-peds-men-normal/vhmycr.txd
+Mode `random_counted` | Counter `25` | custom-input/peds/men/gta.img/grievous.dff to custom-output/peds/textures-crazy-peds-men-normal/vhmyelv.dff
+Mode `random_counted` | Counter `25` | custom-input/peds/men/gta.img/grievous.txd to custom-output/peds/textures-crazy-peds-men-normal/vhmyelv.txd
+Mode `random_counted` | Counter `26` | custom-input/peds/men/gta.img/megaman.dff to custom-output/peds/textures-crazy-peds-men-normal/vimyelv.dff
+Mode `random_counted` | Counter `26` | custom-input/peds/men/gta.img/megaman.txd to custom-output/peds/textures-crazy-peds-men-normal/vimyelv.txd
+Mode `random_counted` | Counter `27` | custom-input/peds/men/gta.img/mios/cubibob.dff to custom-output/peds/textures-crazy-peds-men-normal/vla1.dff
+Mode `random_counted` | Counter `27` | custom-input/peds/men/gta.img/mios/cubibob.txd to custom-output/peds/textures-crazy-peds-men-normal/vla1.txd
+Mode `random_counted` | Counter `28` | custom-input/peds/men/gta.img/fin-el-humano.dff to custom-output/peds/textures-crazy-peds-men-normal/vla2.dff
+Mode `random_counted` | Counter `28` | custom-input/peds/men/gta.img/fin-el-humano.txd to custom-output/peds/textures-crazy-peds-men-normal/vla2.txd
+Mode `random_counted` | Counter `29` | custom-input/peds/men/gta.img/fortnite/fortinte-banana3.dff to custom-output/peds/textures-crazy-peds-men-normal/vla3.dff
+Mode `random_counted` | Counter `29` | custom-input/peds/men/gta.img/fortnite/fortinte-banana3.txd to custom-output/peds/textures-crazy-peds-men-normal/vla3.txd
+Mode `random_counted` | Counter `30` | custom-input/peds/men/gta.img/nintendo/gdorf.dff to custom-output/peds/textures-crazy-peds-men-normal/vmaff1.dff
+Mode `random_counted` | Counter `30` | custom-input/peds/men/gta.img/nintendo/gdorf.txd to custom-output/peds/textures-crazy-peds-men-normal/vmaff1.txd
+Mode `random_counted` | Counter `31` | custom-input/peds/men/gta.img/marvel/spiderman1.dff to custom-output/peds/textures-crazy-peds-men-normal/vmaff2.dff
+Mode `random_counted` | Counter `31` | custom-input/peds/men/gta.img/marvel/spiderman1.txd to custom-output/peds/textures-crazy-peds-men-normal/vmaff2.txd
+Mode `random_counted` | Counter `32` | custom-input/peds/men/gta.img/walter-white.dff to custom-output/peds/textures-crazy-peds-men-normal/vmaff3.dff
+Mode `random_counted` | Counter `32` | custom-input/peds/men/gta.img/walter-white.txd to custom-output/peds/textures-crazy-peds-men-normal/vmaff3.txd
+Mode `random_counted` | Counter `33` | custom-input/peds/men/gta.img/dc/Joker.dff to custom-output/peds/textures-crazy-peds-men-normal/vmaff4.dff
+Mode `random_counted` | Counter `33` | custom-input/peds/men/gta.img/dc/Joker.txd to custom-output/peds/textures-crazy-peds-men-normal/vmaff4.txd
+Mode `random_counted` | Counter `34` | custom-input/peds/men/gta.img/LEGO Stormtrooper.dff to custom-output/peds/textures-crazy-peds-men-normal/vwmotr1.dff
+Mode `random_counted` | Counter `34` | custom-input/peds/men/gta.img/LEGO Stormtrooper.txd to custom-output/peds/textures-crazy-peds-men-normal/vwmotr1.txd
+Mode `random_counted` | Counter `35` | custom-input/peds/men/gta.img/regular-show/rigby.dff to custom-output/peds/textures-crazy-peds-men-normal/vwmotr2.dff
+Mode `random_counted` | Counter `35` | custom-input/peds/men/gta.img/regular-show/rigby.txd to custom-output/peds/textures-crazy-peds-men-normal/vwmotr2.txd
+Mode `random_counted` | Counter `36` | custom-input/peds/men/gta.img/T-51bPowerArmor.dff to custom-output/peds/textures-crazy-peds-men-normal/vwmybox.dff
+Mode `random_counted` | Counter `36` | custom-input/peds/men/gta.img/T-51bPowerArmor.txd to custom-output/peds/textures-crazy-peds-men-normal/vwmybox.txd
+Mode `random_counted` | Counter `37` | custom-input/peds/men/gta.img/grunt-soldier-syndicate.dff to custom-output/peds/textures-crazy-peds-men-normal/vwmycd.dff
+Mode `random_counted` | Counter `37` | custom-input/peds/men/gta.img/grunt-soldier-syndicate.txd to custom-output/peds/textures-crazy-peds-men-normal/vwmycd.txd
+Mode `random_counted` | Counter `38` | custom-input/peds/men/gta.img/2026-02-06/pubg-random.dff to custom-output/peds/textures-crazy-peds-men-normal/vwmycr.dff
+Mode `random_counted` | Counter `38` | custom-input/peds/men/gta.img/2026-02-06/pubg-random.txd to custom-output/peds/textures-crazy-peds-men-normal/vwmycr.txd
+Mode `random_counted` | Counter `39` | custom-input/peds/men/gta.img/GigaChad.dff to custom-output/peds/textures-crazy-peds-men-normal/wbdyg1.dff
+Mode `random_counted` | Counter `39` | custom-input/peds/men/gta.img/GigaChad.txd to custom-output/peds/textures-crazy-peds-men-normal/wbdyg1.txd
+Mode `random_counted` | Counter `40` | custom-input/peds/men/gta.img/snoop.dff to custom-output/peds/textures-crazy-peds-men-normal/wbdyg2.dff
+Mode `random_counted` | Counter `40` | custom-input/peds/men/gta.img/snoop.txd to custom-output/peds/textures-crazy-peds-men-normal/wbdyg2.txd
+Mode `random_counted` | Counter `41` | custom-input/peds/men/gta.img/kermit.dff to custom-output/peds/textures-crazy-peds-men-normal/wmoice.dff
+Mode `random_counted` | Counter `41` | custom-input/peds/men/gta.img/kermit.txd to custom-output/peds/textures-crazy-peds-men-normal/wmoice.txd
+Mode `random_counted` | Counter `42` | custom-input/peds/men/gta.img/Marty McFly.dff to custom-output/peds/textures-crazy-peds-men-normal/wmomib.dff
+Mode `random_counted` | Counter `42` | custom-input/peds/men/gta.img/Marty McFly.txd to custom-output/peds/textures-crazy-peds-men-normal/wmomib.txd
+Mode `random_counted` | Counter `43` | custom-input/peds/men/gta.img/nintendo/brawl-snake.dff to custom-output/peds/textures-crazy-peds-men-normal/wmosci.dff
+Mode `random_counted` | Counter `43` | custom-input/peds/men/gta.img/nintendo/brawl-snake.txd to custom-output/peds/textures-crazy-peds-men-normal/wmosci.txd
+Mode `random_counted` | Counter `44` | custom-input/peds/men/gta.img/mios/lolMan.dff to custom-output/peds/textures-crazy-peds-men-normal/wmost.dff
+Mode `random_counted` | Counter `44` | custom-input/peds/men/gta.img/mios/lolMan.txd to custom-output/peds/textures-crazy-peds-men-normal/wmost.txd
+Mode `random_counted` | Counter `45` | custom-input/peds/men/gta.img/chavo/chapulin-colorado.dff to custom-output/peds/textures-crazy-peds-men-normal/wmotr1.dff
+Mode `random_counted` | Counter `45` | custom-input/peds/men/gta.img/chavo/chapulin-colorado.txd to custom-output/peds/textures-crazy-peds-men-normal/wmotr1.txd
+Mode `random_counted` | Counter `46` | custom-input/peds/men/gta.img/mtcrss.dff to custom-output/peds/textures-crazy-peds-men-normal/wmybar.dff
+Mode `random_counted` | Counter `46` | custom-input/peds/men/gta.img/mtcrss.txd to custom-output/peds/textures-crazy-peds-men-normal/wmybar.txd
+Mode `random_counted` | Counter `47` | custom-input/peds/men/gta.img/halo/halo-marine1.dff to custom-output/peds/textures-crazy-peds-men-normal/wmybe.dff
+Mode `random_counted` | Counter `47` | custom-input/peds/men/gta.img/halo/halo-marine1.txd to custom-output/peds/textures-crazy-peds-men-normal/wmybe.txd
+Mode `random_counted` | Counter `48` | custom-input/peds/men/gta.img/chavo/quico-kiko-v2.dff to custom-output/peds/textures-crazy-peds-men-normal/wmybell.dff
+Mode `random_counted` | Counter `48` | custom-input/peds/men/gta.img/chavo/quico-kiko-v2.txd to custom-output/peds/textures-crazy-peds-men-normal/wmybell.txd
+Mode `random_counted` | Counter `49` | custom-input/peds/men/gta.img/halo/master-chief.dff to custom-output/peds/textures-crazy-peds-men-normal/wmybmx.dff
+Mode `random_counted` | Counter `49` | custom-input/peds/men/gta.img/halo/master-chief.txd to custom-output/peds/textures-crazy-peds-men-normal/wmybmx.txd
+Mode `random_counted` | Counter `50` | custom-input/peds/men/gta.img/gta/franklin-dlc.dff to custom-output/peds/textures-crazy-peds-men-normal/wmyboun.dff
+Mode `random_counted` | Counter `50` | custom-input/peds/men/gta.img/gta/franklin-dlc.txd to custom-output/peds/textures-crazy-peds-men-normal/wmyboun.txd
+Mode `random_counted` | Counter `51` | custom-input/peds/men/gta.img/counter-strike/cssas.dff to custom-output/peds/textures-crazy-peds-men-normal/wmybp.dff
+Mode `random_counted` | Counter `51` | custom-input/peds/men/gta.img/counter-strike/cssas.txd to custom-output/peds/textures-crazy-peds-men-normal/wmybp.txd
+Mode `random_counted` | Counter `52` | custom-input/peds/men/gta.img/marvel/aiwthanos.dff to custom-output/peds/textures-crazy-peds-men-normal/wmybu.dff
+Mode `random_counted` | Counter `52` | custom-input/peds/men/gta.img/marvel/aiwthanos.txd to custom-output/peds/textures-crazy-peds-men-normal/wmybu.txd
+Mode `random_counted` | Counter `53` | custom-input/peds/men/gta.img/bobrito-bandito-itailan-brainrot.dff to custom-output/peds/textures-crazy-peds-men-normal/wmycd1.dff
+Mode `random_counted` | Counter `53` | custom-input/peds/men/gta.img/bobrito-bandito-itailan-brainrot.txd to custom-output/peds/textures-crazy-peds-men-normal/wmycd1.txd
+Mode `random_counted` | Counter `54` | custom-input/peds/men/gta.img/half-life/half-life-cj.dff to custom-output/peds/textures-crazy-peds-men-normal/wmycon.dff
+Mode `random_counted` | Counter `54` | custom-input/peds/men/gta.img/half-life/half-life-cj.txd to custom-output/peds/textures-crazy-peds-men-normal/wmycon.txd
+Mode `random_counted` | Counter `55` | custom-input/peds/men/gta.img/fortnite/fortnite-rubius-sin-gafas.dff to custom-output/peds/textures-crazy-peds-men-normal/wmyconb.dff
+Mode `random_counted` | Counter `55` | custom-input/peds/men/gta.img/fortnite/fortnite-rubius-sin-gafas.txd to custom-output/peds/textures-crazy-peds-men-normal/wmyconb.txd
+Mode `random_counted` | Counter `56` | custom-input/peds/men/gta.img/marvel/capitan-civil-war.dff to custom-output/peds/textures-crazy-peds-men-normal/wmycr.dff
+Mode `random_counted` | Counter `56` | custom-input/peds/men/gta.img/marvel/capitan-civil-war.txd to custom-output/peds/textures-crazy-peds-men-normal/wmycr.txd
+Mode `random_counted` | Counter `57` | custom-input/peds/men/gta.img/fortnite/fortnite-peacemaker.dff to custom-output/peds/textures-crazy-peds-men-normal/wmydrug.dff
+Mode `random_counted` | Counter `57` | custom-input/peds/men/gta.img/fortnite/fortnite-peacemaker.txd to custom-output/peds/textures-crazy-peds-men-normal/wmydrug.txd
+Mode `random_counted` | Counter `58` | custom-input/peds/men/gta.img/half-life/half-life-zombie.dff to custom-output/peds/textures-crazy-peds-men-normal/wmyjg.dff
+Mode `random_counted` | Counter `58` | custom-input/peds/men/gta.img/half-life/half-life-zombie.txd to custom-output/peds/textures-crazy-peds-men-normal/wmyjg.txd
+Mode `random_counted` | Counter `59` | custom-input/peds/men/gta.img/nintendo/brawl-link.dff to custom-output/peds/textures-crazy-peds-men-normal/wmykara.dff
+Mode `random_counted` | Counter `59` | custom-input/peds/men/gta.img/nintendo/brawl-link.txd to custom-output/peds/textures-crazy-peds-men-normal/wmykara.txd
+Mode `random_counted` | Counter `60` | custom-input/peds/men/gta.img/btllflz.dff to custom-output/peds/textures-crazy-peds-men-normal/wmylg.dff
+Mode `random_counted` | Counter `60` | custom-input/peds/men/gta.img/btllflz.txd to custom-output/peds/textures-crazy-peds-men-normal/wmylg.txd
+Mode `random_counted` | Counter `61` | custom-input/peds/men/gta.img/fortnite/fortnite-cursed-jack-sparrow.dff to custom-output/peds/textures-crazy-peds-men-normal/wmymech.dff
+Mode `random_counted` | Counter `61` | custom-input/peds/men/gta.img/fortnite/fortnite-cursed-jack-sparrow.txd to custom-output/peds/textures-crazy-peds-men-normal/wmymech.txd
+Mode `random_counted` | Counter `62` | custom-input/peds/men/gta.img/purpleguy.dff to custom-output/peds/textures-crazy-peds-men-normal/wmymoun.dff
+Mode `random_counted` | Counter `62` | custom-input/peds/men/gta.img/purpleguy.txd to custom-output/peds/textures-crazy-peds-men-normal/wmymoun.txd
+Mode `random_counted` | Counter `63` | custom-input/peds/men/gta.img/pepsiman.dff to custom-output/peds/textures-crazy-peds-men-normal/wmypizz.dff
+Mode `random_counted` | Counter `63` | custom-input/peds/men/gta.img/pepsiman.txd to custom-output/peds/textures-crazy-peds-men-normal/wmypizz.txd
+Mode `random_counted` | Counter `64` | custom-input/peds/men/gta.img/half-life/half-life-2-metrocop-remake-hd.dff to custom-output/peds/textures-crazy-peds-men-normal/wmyri.dff
+Mode `random_counted` | Counter `64` | custom-input/peds/men/gta.img/half-life/half-life-2-metrocop-remake-hd.txd to custom-output/peds/textures-crazy-peds-men-normal/wmyri.txd
+Mode `random_counted` | Counter `65` | custom-input/peds/men/gta.img/dave.dff to custom-output/peds/textures-crazy-peds-men-normal/wmyro.dff
+Mode `random_counted` | Counter `65` | custom-input/peds/men/gta.img/dave.txd to custom-output/peds/textures-crazy-peds-men-normal/wmyro.txd
+Mode `random_counted` | Counter `66` | custom-input/peds/men/gta.img/dc/bat95.dff to custom-output/peds/textures-crazy-peds-men-normal/wmysgrd.dff
+Mode `random_counted` | Counter `66` | custom-input/peds/men/gta.img/dc/bat95.txd to custom-output/peds/textures-crazy-peds-men-normal/wmysgrd.txd
+Mode `random_counted` | Counter `67` | custom-input/peds/men/gta.img/marvel/capzombie.dff to custom-output/peds/textures-crazy-peds-men-normal/wmyst.dff
+Mode `random_counted` | Counter `67` | custom-input/peds/men/gta.img/marvel/capzombie.txd to custom-output/peds/textures-crazy-peds-men-normal/wmyst.txd
+Mode `random_counted` | Counter `68` | custom-input/peds/men/gta.img/CyborgTT.dff to custom-output/peds/textures-crazy-peds-men-normal/wmyva.dff
+Mode `random_counted` | Counter `68` | custom-input/peds/men/gta.img/CyborgTT.txd to custom-output/peds/textures-crazy-peds-men-normal/wmyva.txd
+output models:
+---
+army
+ballas1
+ballas2
+ballas3
+bikdrug
+bikera
+bikerb
+bmobar
+bmocd
+bmochil
+bmori
+bmost
+bmotr1
+bmybar
+bmybe
+bmyboun
+bmybu
+bmycg
+bmycon
+bmycr
+bmydj
+bmydrug
+bmymib
+bmymoun
+bmypimp
+bmyri
+bmyst
+csher
+cwmofr
+cwmohb1
+cwmohb2
+cwmyfr
+cwmyhb1
+cwmyhb2
+dnb1
+dnb2
+dnb3
+dnmolc1
+dnmolc2
+dwmolc1
+dwmolc2
+dwmylc1
+dwmylc2
+fam1
+fam2
+fam3
+fbi
+hmogar
+hmori
+hmost
+hmybe
+hmycm
+hmycr
+hmydrug
+hmyri
+hmyst
+laemt1
+lafd1
+lapd1
+lapdm1
+lsv1
+lsv2
+lsv3
+lvemt1
+lvfd1
+lvpd1
+mafboss
+maffa
+maffb
+male01
+omonood
+omori
+omost
+omykara
+omyri
+omyst
+sbmocd
+sbmori
+sbmost
+sbmotr2
+sbmycr
+sbmyri
+sbmyst
+sbmytr3
+sdher
+sfemt1
+sffd1
+sfpd1
+sfr1
+sfr2
+sfr3
+shmycr
+smyst
+smyst2
+somost
+somyri
+somyst
+swat
+swmocd
+swmotr2
+swmotr3
+swmotr4
+swmotr5
+swmyhp1
+swmyhp2
+swmyri
+swmyst
+triada
+triadb
+triboss
+vbmocd
+vbmybox
+vbmycr
+vbmyelv
+vhmycr
+vhmyelv
+vimyelv
+vla1
+vla2
+vla3
+vmaff1
+vmaff2
+vmaff3
+vmaff4
+vwmotr1
+vwmotr2
+vwmybox
+vwmycd
+vwmycr
+wbdyg1
+wbdyg2
+wmoice
+wmomib
+wmosci
+wmost
+wmotr1
+wmybar
+wmybe
+wmybell
+wmybmx
+wmyboun
+wmybp
+wmybu
+wmycd1
+wmycon
+wmyconb
+wmycr
+wmydrug
+wmyjg
+wmykara
+wmylg
+wmymech
+wmymoun
+wmypizz
+wmyri
+wmyro
+wmysgrd
+wmyst
+wmyva
+---
+models: 159
+
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/atlas-robot.dff to custom-output/peds/textures-crazy-peds-men-special/andre.dff
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/atlas-robot.txd to custom-output/peds/textures-crazy-peds-men-special/andre.txd
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/grievous.dff to custom-output/peds/textures-crazy-peds-men-special/bb.dff
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/grievous.txd to custom-output/peds/textures-crazy-peds-men-special/bb.txd
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/fortnite/employee-fortnite.dff to custom-output/peds/textures-crazy-peds-men-special/bbthin.dff
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/fortnite/employee-fortnite.txd to custom-output/peds/textures-crazy-peds-men-special/bbthin.txd
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/GigaChad.dff to custom-output/peds/textures-crazy-peds-men-special/cesar.dff
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/GigaChad.txd to custom-output/peds/textures-crazy-peds-men-special/cesar.txd
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/fortnite/fortnite-bonejamin.dff to custom-output/peds/textures-crazy-peds-men-special/claude.dff
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/fortnite/fortnite-bonejamin.txd to custom-output/peds/textures-crazy-peds-men-special/claude.txd
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/fortnite/fortinte-banana3.dff to custom-output/peds/textures-crazy-peds-men-special/dwayne.dff
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/fortnite/fortinte-banana3.txd to custom-output/peds/textures-crazy-peds-men-special/dwayne.txd
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/Agent17.dff to custom-output/peds/textures-crazy-peds-men-special/emmet.dff
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/Agent17.txd to custom-output/peds/textures-crazy-peds-men-special/emmet.txd
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/alien.dff to custom-output/peds/textures-crazy-peds-men-special/forelli.dff
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/alien.txd to custom-output/peds/textures-crazy-peds-men-special/forelli.txd
+Mode `random_counted` | Counter `8` | custom-input/peds/men/gta.img/half-life/half-life-zombie.dff to custom-output/peds/textures-crazy-peds-men-special/heck1.dff
+Mode `random_counted` | Counter `8` | custom-input/peds/men/gta.img/half-life/half-life-zombie.txd to custom-output/peds/textures-crazy-peds-men-special/heck1.txd
+Mode `random_counted` | Counter `9` | custom-input/peds/men/gta.img/Marty McFly.dff to custom-output/peds/textures-crazy-peds-men-special/heck2.dff
+Mode `random_counted` | Counter `9` | custom-input/peds/men/gta.img/Marty McFly.txd to custom-output/peds/textures-crazy-peds-men-special/heck2.txd
+Mode `random_counted` | Counter `10` | custom-input/peds/men/gta.img/fnaf/UnwFreddy.dff to custom-output/peds/textures-crazy-peds-men-special/hern.dff
+Mode `random_counted` | Counter `10` | custom-input/peds/men/gta.img/fnaf/UnwFreddy.txd to custom-output/peds/textures-crazy-peds-men-special/hern.txd
+Mode `random_counted` | Counter `11` | custom-input/peds/men/gta.img/dave.dff to custom-output/peds/textures-crazy-peds-men-special/jethro.dff
+Mode `random_counted` | Counter `11` | custom-input/peds/men/gta.img/dave.txd to custom-output/peds/textures-crazy-peds-men-special/jethro.txd
+Mode `random_counted` | Counter `12` | custom-input/peds/men/gta.img/fortnite/fortnite-rubius-sin-gafas.dff to custom-output/peds/textures-crazy-peds-men-special/jizzy.dff
+Mode `random_counted` | Counter `12` | custom-input/peds/men/gta.img/fortnite/fortnite-rubius-sin-gafas.txd to custom-output/peds/textures-crazy-peds-men-special/jizzy.txd
+Mode `random_counted` | Counter `13` | custom-input/peds/men/gta.img/marvel/capzombie.dff to custom-output/peds/textures-crazy-peds-men-special/maccer.dff
+Mode `random_counted` | Counter `13` | custom-input/peds/men/gta.img/marvel/capzombie.txd to custom-output/peds/textures-crazy-peds-men-special/maccer.txd
+Mode `random_counted` | Counter `14` | custom-input/peds/men/gta.img/chavo/chavo.dff to custom-output/peds/textures-crazy-peds-men-special/maddogg.dff
+Mode `random_counted` | Counter `14` | custom-input/peds/men/gta.img/chavo/chavo.txd to custom-output/peds/textures-crazy-peds-men-special/maddogg.txd
+Mode `random_counted` | Counter `15` | custom-input/peds/men/gta.img/fnaf/Withered Bonnie Beta.dff to custom-output/peds/textures-crazy-peds-men-special/ogloc.dff
+Mode `random_counted` | Counter `15` | custom-input/peds/men/gta.img/fnaf/Withered Bonnie Beta.txd to custom-output/peds/textures-crazy-peds-men-special/ogloc.txd
+Mode `random_counted` | Counter `16` | custom-input/peds/men/gta.img/regular-show/cassette.dff to custom-output/peds/textures-crazy-peds-men-special/paul.dff
+Mode `random_counted` | Counter `16` | custom-input/peds/men/gta.img/regular-show/cassette.txd to custom-output/peds/textures-crazy-peds-men-special/paul.txd
+Mode `random_counted` | Counter `17` | custom-input/peds/men/gta.img/bobrito-bandito-itailan-brainrot.dff to custom-output/peds/textures-crazy-peds-men-special/pulaski.dff
+Mode `random_counted` | Counter `17` | custom-input/peds/men/gta.img/bobrito-bandito-itailan-brainrot.txd to custom-output/peds/textures-crazy-peds-men-special/pulaski.txd
+Mode `random_counted` | Counter `18` | custom-input/peds/men/gta.img/CyborgTT.dff to custom-output/peds/textures-crazy-peds-men-special/rose.dff
+Mode `random_counted` | Counter `18` | custom-input/peds/men/gta.img/CyborgTT.txd to custom-output/peds/textures-crazy-peds-men-special/rose.txd
+Mode `random_counted` | Counter `19` | custom-input/peds/men/gta.img/FroSoni.dff to custom-output/peds/textures-crazy-peds-men-special/ryder.dff
+Mode `random_counted` | Counter `19` | custom-input/peds/men/gta.img/FroSoni.txd to custom-output/peds/textures-crazy-peds-men-special/ryder.txd
+Mode `random_counted` | Counter `20` | custom-input/peds/men/gta.img/regular-show/mordecai.dff to custom-output/peds/textures-crazy-peds-men-special/ryder3.dff
+Mode `random_counted` | Counter `20` | custom-input/peds/men/gta.img/regular-show/mordecai.txd to custom-output/peds/textures-crazy-peds-men-special/ryder3.txd
+Mode `random_counted` | Counter `21` | custom-input/peds/men/gta.img/walter-white.dff to custom-output/peds/textures-crazy-peds-men-special/sindaco.dff
+Mode `random_counted` | Counter `21` | custom-input/peds/men/gta.img/walter-white.txd to custom-output/peds/textures-crazy-peds-men-special/sindaco.txd
+Mode `random_counted` | Counter `22` | custom-input/peds/men/gta.img/mios/lolMan.dff to custom-output/peds/textures-crazy-peds-men-special/smoke.dff
+Mode `random_counted` | Counter `22` | custom-input/peds/men/gta.img/mios/lolMan.txd to custom-output/peds/textures-crazy-peds-men-special/smoke.txd
+Mode `random_counted` | Counter `23` | custom-input/peds/men/gta.img/fortnite/fortnite-doom-slayer.dff to custom-output/peds/textures-crazy-peds-men-special/smokev.dff
+Mode `random_counted` | Counter `23` | custom-input/peds/men/gta.img/fortnite/fortnite-doom-slayer.txd to custom-output/peds/textures-crazy-peds-men-special/smokev.txd
+Mode `random_counted` | Counter `24` | custom-input/peds/men/gta.img/half-life/gman.dff to custom-output/peds/textures-crazy-peds-men-special/sweet.dff
+Mode `random_counted` | Counter `24` | custom-input/peds/men/gta.img/half-life/gman.txd to custom-output/peds/textures-crazy-peds-men-special/sweet.txd
+Mode `random_counted` | Counter `25` | custom-input/peds/men/gta.img/purpleguy.dff to custom-output/peds/textures-crazy-peds-men-special/tbone.dff
+Mode `random_counted` | Counter `25` | custom-input/peds/men/gta.img/purpleguy.txd to custom-output/peds/textures-crazy-peds-men-special/tbone.txd
+Mode `random_counted` | Counter `26` | custom-input/peds/men/gta.img/nintendo/captain-falcon.dff to custom-output/peds/textures-crazy-peds-men-special/tenpen.dff
+Mode `random_counted` | Counter `26` | custom-input/peds/men/gta.img/nintendo/captain-falcon.txd to custom-output/peds/textures-crazy-peds-men-special/tenpen.txd
+Mode `random_counted` | Counter `27` | custom-input/peds/men/gta.img/nintendo/brawl-link.dff to custom-output/peds/textures-crazy-peds-men-special/torino.dff
+Mode `random_counted` | Counter `27` | custom-input/peds/men/gta.img/nintendo/brawl-link.txd to custom-output/peds/textures-crazy-peds-men-special/torino.txd
+Mode `random_counted` | Counter `28` | custom-input/peds/men/gta.img/nintendo/melee-luigi.dff to custom-output/peds/textures-crazy-peds-men-special/truth.dff
+Mode `random_counted` | Counter `28` | custom-input/peds/men/gta.img/nintendo/melee-luigi.txd to custom-output/peds/textures-crazy-peds-men-special/truth.txd
+Mode `random_counted` | Counter `29` | custom-input/peds/men/gta.img/pepsiman.dff to custom-output/peds/textures-crazy-peds-men-special/wmopj.dff
+Mode `random_counted` | Counter `29` | custom-input/peds/men/gta.img/pepsiman.txd to custom-output/peds/textures-crazy-peds-men-special/wmopj.txd
+Mode `random_counted` | Counter `30` | custom-input/peds/men/gta.img/RustGuy.dff to custom-output/peds/textures-crazy-peds-men-special/wmyva2.dff
+Mode `random_counted` | Counter `30` | custom-input/peds/men/gta.img/RustGuy.txd to custom-output/peds/textures-crazy-peds-men-special/wmyva2.txd
+Mode `random_counted` | Counter `31` | custom-input/peds/men/gta.img/irnmanprimemd.dff to custom-output/peds/textures-crazy-peds-men-special/wuzimu.dff
+Mode `random_counted` | Counter `31` | custom-input/peds/men/gta.img/irnmanprimemd.txd to custom-output/peds/textures-crazy-peds-men-special/wuzimu.txd
+output models:
+---
+andre
+bb
+bbthin
+cesar
+claude
+dwayne
+emmet
+forelli
+heck1
+heck2
+hern
+jethro
+jizzy
+maccer
+maddogg
+ogloc
+paul
+pulaski
+rose
+ryder
+ryder3
+sindaco
+smoke
+smokev
+sweet
+tbone
+tenpen
+torino
+truth
+wmopj
+wmyva2
+wuzimu
+---
+models: 32
+
+cleaned
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/yorobot.dff to custom-output/peds/textures-crazy-peds-men-samp/csherna.dff
+Mode `random_counted` | Counter `0` | custom-input/peds/men/gta.img/yorobot.txd to custom-output/peds/textures-crazy-peds-men-samp/csherna.txd
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/fortnite/fortnite-peacemaker.dff to custom-output/peds/textures-crazy-peds-men-samp/dsherna.dff
+Mode `random_counted` | Counter `1` | custom-input/peds/men/gta.img/fortnite/fortnite-peacemaker.txd to custom-output/peds/textures-crazy-peds-men-samp/dsherna.txd
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/nintendo/captain-falcon.dff to custom-output/peds/textures-crazy-peds-men-samp/lapdna.dff
+Mode `random_counted` | Counter `2` | custom-input/peds/men/gta.img/nintendo/captain-falcon.txd to custom-output/peds/textures-crazy-peds-men-samp/lapdna.txd
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/Woody.dff to custom-output/peds/textures-crazy-peds-men-samp/lapdpc.dff
+Mode `random_counted` | Counter `3` | custom-input/peds/men/gta.img/Woody.txd to custom-output/peds/textures-crazy-peds-men-samp/lapdpc.txd
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/maxpayne.dff to custom-output/peds/textures-crazy-peds-men-samp/lapdpd.dff
+Mode `random_counted` | Counter `4` | custom-input/peds/men/gta.img/maxpayne.txd to custom-output/peds/textures-crazy-peds-men-samp/lapdpd.txd
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/pepsiman.dff to custom-output/peds/textures-crazy-peds-men-samp/lvpdna.dff
+Mode `random_counted` | Counter `5` | custom-input/peds/men/gta.img/pepsiman.txd to custom-output/peds/textures-crazy-peds-men-samp/lvpdna.txd
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/tonyhwk.dff to custom-output/peds/textures-crazy-peds-men-samp/lvpdpc.dff
+Mode `random_counted` | Counter `6` | custom-input/peds/men/gta.img/tonyhwk.txd to custom-output/peds/textures-crazy-peds-men-samp/lvpdpc.txd
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/nintendo/gdorf.dff to custom-output/peds/textures-crazy-peds-men-samp/sfpdna.dff
+Mode `random_counted` | Counter `7` | custom-input/peds/men/gta.img/nintendo/gdorf.txd to custom-output/peds/textures-crazy-peds-men-samp/sfpdna.txd
+output models:
+---
+csherna
+dsherna
+lapdna
+lapdpc
+lapdpd
+lvpdna
+lvpdpc
+sfpdna
+---
+models: 8

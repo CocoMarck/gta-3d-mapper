@@ -40,7 +40,7 @@ custom-input/ or custom-output/
 ```bash
 python3 main.py -id "./custom-input/cars/1-doors/gta.img/" -od "./custom-output/cars/1-seat/" -tf "./resources/gta_sa_cars_slot_none_1_seat.txt" --clean --mode "random_counted" --run
 
-python3 main.py -od "./custom-output/cars/1-seat" -so
+python3 main.py -od "./custom-output/textures-crazy-1-seat-cars-none" -so
 ```
 
 ---
@@ -93,7 +93,7 @@ python3 main.py -od "./custom-output/cars/4-doors/none" -so
 ---
 
 # Bikes
-## Motorycycles
+## Motorcycles
 ```bash
 python3 main.py -id './custom-input/bikes/motorcycles/gta.img' -od './custom-output/bikes/motorcycles/' -tf "./resources/gta_sa_bikes_motorcycles.txt" --clean --mode "random_counted" --run
 
@@ -195,14 +195,14 @@ python3 main.py -id "./custom-input/peds/men/gta.img/" -od "./custom-output/peds
 
 ---
 
-# Trucks
+# Big cars | Trucks Pickups
 ```bash
 python3 main.py -id "./custom-input/cars/2-doors/pickup-trucks/gta.img/" -od "./custom-output/cars/2-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_2_door.txt" --clean --mode "random_counted" --run
 
 python3 main.py -od "./custom-output/cars/2-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_2_door.txt" -so
 ```
 
-```
+```bash
 python3 main.py -id "./custom-input/cars/4-doors/pickup-trucks/gta.img/" -od "./custom-output/cars/4-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_4_door.txt" --clean --mode "random_counted" --run
 
 python3 main.py -od "./custom-output/cars/4-doors/pickup-trucks" -tf "./resources/gta_sa_pickup_trucks_slot_none_4_door.txt" -so
